@@ -1,0 +1,18 @@
+state={
+	id=1805
+	name="STATE_1805"
+	provinces={
+		1466 1505 1809 1819 2688 3614 3652 4647 5093 5149 5326 5545 5605 5963 6402 7079 7164 7266 7485 7522 7706 7917 8284 8332 9196 9801 11094 11243 12314 13013 13078 18096 18226 18281 18296 18351 
+	}
+	history={
+		buildings = {
+			infrastructure = 6
+		}
+
+		owner = HUN
+		add_core_of = HUN
+	}
+	manpower=428420
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

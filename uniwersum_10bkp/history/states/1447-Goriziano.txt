@@ -1,0 +1,19 @@
+
+state={
+	id=1447
+	name="STATE_1447"
+	provinces={
+		588 1868 2684 2753 2839 3294 3351 4712 5276 5598 6161 8728 10139 10462 10601 13063 13432 19258 19269 
+	}
+	history={
+		buildings = {
+			infrastructure = 5
+		}
+
+		owner = SLV
+		add_core_of = SLV
+	}
+	manpower=119726
+	buildings_max_level_factor=1.000
+	state_category=town
+}

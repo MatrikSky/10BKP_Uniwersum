@@ -1,0 +1,18 @@
+state={
+	id=1769
+	name="STATE_1769"
+	provinces={
+		933 1195 1619 3429 3554 4823 9629 10043 11483 11631 13186 18358 18451 18516 
+	}
+	history={
+		buildings = {
+			infrastructure = 5
+		}
+
+		owner = HUN
+		add_core_of = HUN
+	}
+	manpower=115384
+	buildings_max_level_factor=1.000
+	state_category=town
+}

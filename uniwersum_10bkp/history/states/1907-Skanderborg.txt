@@ -1,0 +1,19 @@
+
+state={
+	id=1907
+	name="STATE_1907"
+	provinces={
+		593 2305 3475 4004 4459 7237 13729 13751 13756 19552 
+	}
+	history={
+		buildings = {
+			infrastructure = 5
+		}
+
+		owner = DEN
+		add_core_of = DEN
+	}
+	manpower=130100
+	buildings_max_level_factor=1.000
+	state_category=town
+}

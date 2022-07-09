@@ -1,0 +1,19 @@
+state={
+	id=1454
+	name="STATE_1454"
+	provinces={
+		1035 2642 3395 3688 4661 5406 6636 7400 8720 8886 9605 10774 11723 12238 13146 19377 19388 19415 19425 19451 19473 19585 
+	}
+	history={
+		buildings = {
+			infrastructure = 7
+			industrial_complex = 1
+		}
+
+		owner = CRO
+		add_core_of = CRO
+	}
+	manpower=220067
+	buildings_max_level_factor=1.000
+	state_category=city
+}

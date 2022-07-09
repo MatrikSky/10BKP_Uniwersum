@@ -1,0 +1,19 @@
+
+state={
+	id=16
+	name="STATE_16"
+	provinces={
+		1061 2636 7167 9288 9873 10377 13282 13768 13778 
+	}
+	history={
+		buildings = {
+			infrastructure = 4
+		}
+
+		owner = LIT
+		add_core_of = LIT
+	}
+	manpower=61972
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

@@ -1,0 +1,18 @@
+state={
+	id=299
+	name="STATE_299"
+	provinces={
+		1435 6499 10016 10019 10350 13001 13591 15576 15600 15614 15627 15640 15674 
+	}
+	history={
+		buildings = {
+			infrastructure = 4
+		}
+
+		owner = GER
+		add_core_of = GER
+	}
+	manpower=96170
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

@@ -1,0 +1,18 @@
+state={
+	id=1198
+	name="STATE_1198"
+	provinces={
+		2547 3064 4526 6706 11651 12767 13460 17626 17715 
+	}
+	history={
+		buildings = {
+			infrastructure = 4
+		}
+
+		owner = SLO
+		add_core_of = SLO
+	}
+	manpower=60210
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

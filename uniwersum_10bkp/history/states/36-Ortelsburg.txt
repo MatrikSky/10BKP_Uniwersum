@@ -1,0 +1,18 @@
+state={
+	id=36
+	name="STATE_36"
+	provinces={
+		262 444 453 526 860 3095 3743 3914 4937 6133 6603 6864 8710 10473 10609 13428 14233 14264 14295 14305 14347 14377 14399 14420 14435 20427 20429 20431 
+	}
+	history={
+		buildings = {
+			infrastructure = 4
+		}
+
+		owner = POL
+		add_core_of = POL
+	}
+	manpower=73442
+	buildings_max_level_factor=1.000
+    state_category=rural
+}

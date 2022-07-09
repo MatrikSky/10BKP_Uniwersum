@@ -1,0 +1,19 @@
+
+state={
+	id=1969
+	name="STATE_1969"
+	provinces={
+		17 463 495 631 926 1927 2332 3100 3938 3985 4135 4407 4442 4970 5004 5465 5728 6305 6823 7211 7407 8279 8315 8684 10328 12367 12875 13848 13965 14044 14063 14154 14165 
+	}
+	history={
+		buildings = {
+			infrastructure = 5
+		}
+
+		owner = BLR
+		add_core_of = BLR
+	}
+	manpower=781080
+	buildings_max_level_factor=1.000
+	state_category=town
+}

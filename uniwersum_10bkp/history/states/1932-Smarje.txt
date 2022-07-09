@@ -1,0 +1,18 @@
+state={
+	id=1932
+	name="STATE_1932"
+	provinces={
+		6544 7305 9775 12549 
+	}
+	history={
+		buildings = {
+			infrastructure = 3
+		}
+
+		owner = SLV
+		add_core_of = SLV
+	}
+	manpower=45555
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

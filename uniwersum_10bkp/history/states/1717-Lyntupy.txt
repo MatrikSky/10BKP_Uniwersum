@@ -1,0 +1,18 @@
+state={
+	id=1717
+	name="STATE_1717"
+	provinces={
+		235 377 6768 10603 13799 20392 20395 20913 20914 20916 20920 
+	}
+	history={
+		buildings = {
+			infrastructure = 3
+		}
+
+		owner = LIT
+		add_core_of = LIT
+	}
+	manpower=40950
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

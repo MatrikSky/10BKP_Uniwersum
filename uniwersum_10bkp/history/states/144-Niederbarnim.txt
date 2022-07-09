@@ -1,0 +1,18 @@
+state={
+	id=144
+	name="STATE_144"
+	provinces={
+		19 739 2699 2802 3115 4458 4856 7145 7909 8937 9656 9708 10312 10347 11255 11306 11352 13699 14889 14925 14961 15039 15114 15145 15169 15181 15212 15218 
+	}
+	history={
+		buildings = {
+			infrastructure = 6
+		}
+
+		owner = GER
+		add_core_of = GER
+	}
+	manpower=232106
+	buildings_max_level_factor=1.000
+    state_category=large_town
+}

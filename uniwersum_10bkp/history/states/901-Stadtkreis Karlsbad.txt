@@ -1,0 +1,18 @@
+state={
+	id=901
+	name="STATE_901"
+	provinces={
+		20690 20691 
+	}
+	history={
+		buildings = {
+			infrastructure = 6
+		}
+
+		owner = CZE
+		add_core_of = CZE
+	}
+	manpower=52465
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

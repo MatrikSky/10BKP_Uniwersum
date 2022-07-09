@@ -1,0 +1,18 @@
+state={
+	id=937
+	name="STATE_937"
+	provinces={
+		4791 6687 6812 11821 13464 17244 17298 
+	}
+	history={
+		buildings = {
+			infrastructure = 3
+		}
+
+		owner = CZE
+		add_core_of = CZE
+	}
+	manpower=35529
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

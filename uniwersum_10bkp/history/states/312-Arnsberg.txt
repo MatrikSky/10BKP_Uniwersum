@@ -1,0 +1,18 @@
+state={
+	id=312
+	name="STATE_312"
+	provinces={
+		941 1554 4258 8223 8632 10289 15807 15815 15845 15865 15889 15914 15957 
+	}
+	history={
+		buildings = {
+			infrastructure = 4
+		}
+
+		owner = GER
+		add_core_of = GER
+	}
+	manpower=85962
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

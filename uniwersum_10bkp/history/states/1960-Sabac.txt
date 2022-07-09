@@ -1,0 +1,18 @@
+state={
+	id=1960
+	name="STATE_1960"
+	provinces={
+		626 850 3470 3972 5117 5311 5459 5614 6260 6580 8023 9440 10836 13655 19505 19535 21080 21081 21094 
+	}
+	history={
+		buildings = {
+			infrastructure = 6
+		}
+
+		owner = SER
+		add_core_of = SER
+	}
+	manpower=270053
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

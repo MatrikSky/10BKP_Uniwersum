@@ -1,0 +1,18 @@
+state={
+	id=1712
+	name="STATE_1712"
+	provinces={
+		4116 5354 13828 20888 
+	}
+	history={
+		buildings = {
+			infrastructure = 3
+		}
+
+		owner = LIT
+		add_core_of = LIT
+	}
+	manpower=32175
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

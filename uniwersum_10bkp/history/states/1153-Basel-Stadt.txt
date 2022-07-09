@@ -1,0 +1,19 @@
+state={
+	id=1153
+	name="STATE_1153"
+	provinces={
+		2640 
+	}
+	history={
+		buildings = {
+			infrastructure = 7
+			industrial_complex = 1
+		}
+
+		owner = SWI
+		add_core_of = SWI
+	}
+	manpower=170000
+	buildings_max_level_factor=1.000
+	state_category=city
+}

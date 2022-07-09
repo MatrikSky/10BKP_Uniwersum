@@ -1,0 +1,18 @@
+state={
+	id=1896
+	name="STATE_1896"
+	provinces={
+		5248 5768 5847 10202 13412 13786 
+	}
+	history={
+		buildings = {
+			infrastructure = 4
+		}
+
+		owner = DEN
+		add_core_of = DEN
+	}
+	manpower=66000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

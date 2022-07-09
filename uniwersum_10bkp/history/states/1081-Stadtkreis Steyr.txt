@@ -1,0 +1,18 @@
+state={
+	id=1081
+	name="STATE_1081"
+	provinces={
+		20700 
+	}
+	history={
+		buildings = {
+			infrastructure = 5
+		}
+
+		owner = AUS
+		add_core_of = AUS
+	}
+	manpower=29293
+	buildings_max_level_factor=1.000
+	state_category=town
+}

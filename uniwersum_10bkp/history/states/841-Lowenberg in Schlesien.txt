@@ -1,0 +1,18 @@
+state={
+	id=841
+	name="STATE_841"
+	provinces={
+		818 4437 4508 4700 10115 13378 16180 16209 16280 16283 16387 
+	}
+	history={
+		buildings = {
+			infrastructure = 4
+		}
+
+		owner = POL
+		add_core_of = POL
+	}
+	manpower=63476
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

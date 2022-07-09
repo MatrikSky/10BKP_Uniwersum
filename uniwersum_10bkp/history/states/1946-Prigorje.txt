@@ -1,0 +1,21 @@
+
+state={
+	id=1946
+	name="STATE_1946"
+	provinces={
+		71 823 1056 1266 1547 4325 6055 8095 9814 10402 11534 19229 19232 19301 21024 21028 21032 21035 21040 
+	}
+	history={
+		buildings = {
+			infrastructure = 8
+			industrial_complex = 2
+			arms_factory = 1
+		}
+
+		owner = CRO
+		add_core_of = CRO
+	}
+	manpower=408429
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

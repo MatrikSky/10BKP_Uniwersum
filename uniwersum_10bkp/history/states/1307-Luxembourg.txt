@@ -1,0 +1,19 @@
+state={
+	id=1307
+	name="STATE_1307"
+	provinces={
+		1246 1253 1354 3208 6403 6471 12623 17010 17112 17194 17211 17243 20599 
+	}
+    history={
+		buildings = {
+			infrastructure = 7
+			industrial_complex = 1
+		}
+
+		owner = LUX
+		add_core_of = LUX
+	}
+	manpower=221065
+	buildings_max_level_factor=1.000
+	state_category=city
+}

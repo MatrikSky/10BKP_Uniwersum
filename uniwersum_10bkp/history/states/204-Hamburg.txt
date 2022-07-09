@@ -1,0 +1,21 @@
+
+state={
+	id=204
+	name="STATE_204"
+	provinces={
+		9150 9736 10483 10513 10819 10936 12902 14387 14388 14393 14450 14462 14475 14497 20592 20593 20595 
+	}
+	history={
+		buildings = {
+			infrastructure = 9
+			industrial_complex = 3
+			arms_factory = 2
+		}
+
+		owner = GER
+		add_core_of = GER
+	}
+	manpower=1698388
+	buildings_max_level_factor=1.000
+	state_category=metropolis
+}

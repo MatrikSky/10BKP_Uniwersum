@@ -1,0 +1,18 @@
+state={
+	id=1765
+	name="STATE_1765"
+	provinces={
+		2705 4779 6057 6424 6513 10516 18977 
+	}
+	history={
+		buildings = {
+			infrastructure = 4
+		}
+
+		owner = SLV
+		add_core_of = SLV
+	}
+	manpower=92295
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

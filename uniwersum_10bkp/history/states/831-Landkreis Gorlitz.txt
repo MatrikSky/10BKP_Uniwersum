@@ -1,0 +1,18 @@
+state={
+	id=831
+	name="STATE_831"
+	provinces={
+		319 8998 9405 10094 11221 12229 12651 15968 15998 16101 16152 
+	}
+	history={
+		buildings = {
+			infrastructure = 4
+		}
+
+		owner = POL
+		add_core_of = POL
+	}
+	manpower=60675
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

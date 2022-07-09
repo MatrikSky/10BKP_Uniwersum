@@ -1,0 +1,19 @@
+
+state={
+	id=1229
+	name="STATE_1229"
+	provinces={
+		2995 3086 4457 8151 9716 10829 19125 20144 
+	}
+	history={
+		buildings = {
+			infrastructure = 4
+		}
+
+		owner = SWI
+		add_core_of = SWI
+	}
+	manpower=52067
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

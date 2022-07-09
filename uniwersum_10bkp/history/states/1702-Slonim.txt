@@ -1,0 +1,18 @@
+state={
+	id=1702
+	name="STATE_1702"
+	provinces={
+		287 1417 1553 1591 2670 3249 3291 4961 5688 5932 6390 7490 7996 10408 11189 12486 14259 14269 14300 14316 14407 14445 14523 20299 20437 20908 20909 20930 
+	}
+	history={
+		buildings = {
+			infrastructure = 5
+		}
+
+		owner = BLR
+		add_core_of = BLR
+	}
+	manpower=126500
+	buildings_max_level_factor=1.000
+	state_category=town
+}

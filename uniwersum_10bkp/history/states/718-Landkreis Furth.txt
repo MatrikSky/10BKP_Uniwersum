@@ -1,0 +1,18 @@
+state={
+	id=718
+	name="STATE_718"
+	provinces={
+		8248 10725 17350 17412 17446 
+	}
+	history={
+		buildings = {
+			infrastructure = 3
+		}
+
+		owner = GER
+		add_core_of = GER
+	}
+	manpower=34756
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

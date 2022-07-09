@@ -1,0 +1,19 @@
+state={
+	id=1254
+	name="STATE_1254"
+	provinces={
+		1726 
+	}
+	history={
+		buildings = {
+			infrastructure = 7
+			industrial_complex = 1
+		}
+
+		owner = BEL
+		add_core_of = BEL
+	}
+	manpower=191678
+	buildings_max_level_factor=1.000
+	state_category=city
+}

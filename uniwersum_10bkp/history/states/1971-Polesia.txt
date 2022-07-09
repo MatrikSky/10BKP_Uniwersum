@@ -1,0 +1,18 @@
+state={
+	id=1971
+	name="STATE_1971"
+	provinces={
+		184 625 697 762 1047 1675 2092 2274 2384 2626 2971 3856 4481 4642 5426 5968 6083 6575 7081 8010 8392 8596 9476 10699 10901 10997 11154 14696 14776 14839 14906 14916 15068 15134 20480 
+	}
+	history={
+		buildings = {
+			infrastructure = 4
+		}
+
+		owner = BLR
+		add_core_of = BLR
+	}
+	manpower=561798
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

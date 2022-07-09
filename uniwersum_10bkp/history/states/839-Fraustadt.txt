@@ -1,0 +1,18 @@
+state={
+	id=839
+	name="STATE_839"
+	provinces={
+		2010 9457 11353 15688 
+	}
+	history={
+		buildings = {
+			infrastructure = 3
+		}
+
+		owner = POL
+		add_core_of = POL
+	}
+	manpower=18908
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

@@ -1,0 +1,20 @@
+state={
+	id=1652
+	name="STATE_1652"
+	provinces={
+		4867 
+	}
+	history={
+		buildings = {
+			infrastructure = 8
+			industrial_complex = 2
+			arms_factory = 1
+		}
+		victory_points = { 4867 35 }
+		owner = UKR
+		add_core_of = UKR
+	}
+	manpower=312200
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

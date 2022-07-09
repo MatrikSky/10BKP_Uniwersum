@@ -1,0 +1,18 @@
+state={
+	id=1948
+	name="STATE_1948"
+	provinces={
+		645 836 1371 2220 2340 2529 3213 4560 5109 7262 7351 7511 8408 9127 10242 10489 10536 12114 19167 19170 19198 19233 19262 19272 21033 21034 21038 21039 21055 21098 21099 
+	}
+	history={
+		buildings = {
+			infrastructure = 6
+		}
+
+		owner = CRO
+		add_core_of = CRO
+	}
+	manpower=334728
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

@@ -1,0 +1,18 @@
+state={
+	id=1329
+	name="STATE_1329"
+	provinces={
+		470 2575 2794 3399 4486 6592 9645 10142 11107 13619 17465 17478 17496 17589 
+	}
+	history={
+		buildings = {
+			infrastructure = 5
+		}
+
+		owner = FRA
+		add_core_of = FRA
+	}
+	manpower=111382
+	buildings_max_level_factor=1.000
+	state_category=town
+}

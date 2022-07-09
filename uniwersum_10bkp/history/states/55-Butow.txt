@@ -1,0 +1,18 @@
+state={
+	id=55
+	name="STATE_55"
+	provinces={
+		75 3538 5899 6414 6491 7214 8419 10110 12570 14074 14094 
+	}
+	history={
+		buildings = {
+			infrastructure = 3
+		}
+
+		owner = POL
+		add_core_of = POL
+	}
+	manpower=27308
+	buildings_max_level_factor=1.000
+    state_category=pastoral
+}

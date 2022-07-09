@@ -1,0 +1,18 @@
+state={
+	id=1263
+	name="STATE_1263"
+	provinces={
+		4002 5329 20763 
+	}
+	history={
+		buildings = {
+			infrastructure = 3
+		}
+
+		owner = BEL
+		add_core_of = BEL
+	}
+	manpower=38973
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

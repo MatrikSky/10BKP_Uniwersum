@@ -1,0 +1,19 @@
+
+state={
+	id=96
+	name="STATE_96"
+	provinces={
+		758 852 1558 4093 4309 5362 5984 6006 6630 6937 7301 7464 9166 9567 9720 10268 13477 14367 14398 14408 14413 14442 14483 14517 14544 14554 14571 14630 14779 14806 20455 
+	}
+	history={
+		buildings = {
+			infrastructure = 4
+		}
+
+		owner = GER
+		add_core_of = GER
+	}
+	manpower=63814
+	buildings_max_level_factor=1.000
+    state_category=rural
+}

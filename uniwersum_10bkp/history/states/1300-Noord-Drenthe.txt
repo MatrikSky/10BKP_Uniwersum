@@ -1,0 +1,18 @@
+state={
+	id=1300
+	name="STATE_1300"
+	provinces={
+		548 1732 3653 5434 6051 7595 13129 14685 20769 
+	}
+	history={
+		buildings = {
+			infrastructure = 5
+		}
+
+		owner = HOL
+		add_core_of = HOL
+	}
+	manpower=96268
+	buildings_max_level_factor=1.000
+	state_category=town
+}

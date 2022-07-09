@@ -1,0 +1,18 @@
+state={
+	id=1743
+	name="STATE_1743"
+	provinces={
+		414 939 1027 1299 2075 2246 2473 3660 4207 5367 6398 7335 7336 7578 7749 7939 8730 8758 8947 9265 9700 10244 12273 12644 13222 15588 15713 15813 15840 15871 15919 15925 15980 15981 16022 16108 16154 16242 
+	}
+	history={
+		buildings = {
+			infrastructure = 6
+		}
+
+		owner = UKR
+		add_core_of = UKR
+	}
+	manpower=290800
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

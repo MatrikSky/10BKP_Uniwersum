@@ -1,0 +1,18 @@
+state={
+	id=1709
+	name="STATE_1709"
+	provinces={
+		2876 3518 4845 9012 9966 11846 13859 13878 
+	}
+	history={
+		buildings = {
+			infrastructure = 4
+		}
+
+		owner = BLR
+		add_core_of = BLR
+	}
+	manpower=68475
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

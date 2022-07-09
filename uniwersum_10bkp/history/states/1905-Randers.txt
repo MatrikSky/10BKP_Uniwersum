@@ -1,0 +1,18 @@
+state={
+	id=1905
+	name="STATE_1905"
+	provinces={
+		5962 
+	}
+	history={
+		buildings = {
+			infrastructure = 5
+		}
+
+		owner = DEN
+		add_core_of = DEN
+	}
+	manpower=155200
+	buildings_max_level_factor=1.000
+	state_category=town
+}

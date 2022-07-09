@@ -1,0 +1,18 @@
+state={
+	id=1122
+	name="STATE_1122"
+	provinces={
+		3474 5731 9446 18976 19002 
+	}
+	history={
+		buildings = {
+			infrastructure = 3
+		}
+
+		owner = AUS
+		add_core_of = AUS
+	}
+	manpower=26711
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

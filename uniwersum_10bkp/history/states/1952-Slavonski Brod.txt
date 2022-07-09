@@ -1,0 +1,18 @@
+state={
+	id=1952
+	name="STATE_1952"
+	provinces={
+		545 1571 2633 3730 4899 5323 6235 12775 12797 19411 19416 19417 21066 
+	}
+	history={
+		buildings = {
+			infrastructure = 5
+		}
+
+		owner = CRO
+		add_core_of = CRO
+	}
+	manpower=101358
+	buildings_max_level_factor=1.000
+	state_category=town
+}

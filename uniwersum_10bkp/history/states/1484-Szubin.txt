@@ -1,0 +1,18 @@
+state={
+	id=1484
+	name="STATE_1484"
+	provinces={
+		1205 5296 6136 6352 7775 8442 11469 11684 11789 13043 13293 14783 
+	}
+	history={
+		buildings = {
+			infrastructure = 3
+		}
+
+		owner = POL
+		add_core_of = POL
+	}
+	manpower=47800
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

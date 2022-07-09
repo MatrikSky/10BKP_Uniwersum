@@ -1,0 +1,18 @@
+state={
+	id=1962
+	name="STATE_1962"
+	provinces={
+		615 2362 3135 3835 4427 5780 6245 6419 7437 8159 10720 12278 19471 19513 19539 21105 21109 
+	}
+	history={
+		buildings = {
+			infrastructure = 5
+		}
+
+		owner = SER
+		add_core_of = SER
+	}
+	manpower=180480
+	buildings_max_level_factor=1.000
+	state_category=town
+}

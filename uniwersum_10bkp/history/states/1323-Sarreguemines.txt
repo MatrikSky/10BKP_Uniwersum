@@ -1,0 +1,19 @@
+
+state={
+	id=1323
+	name="STATE_1323"
+	provinces={
+		883 4730 7566 8598 8918 8934 9753 12672 13533 17472 17516 17524 17532 17563 
+	}
+	history={
+		buildings = {
+			infrastructure = 4
+		}
+
+		owner = FRA
+		add_core_of = FRA
+	}
+	manpower=76874
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

@@ -1,0 +1,18 @@
+state={
+	id=1737
+	name="STATE_1737"
+	provinces={
+		191 2286 2306 3722 4675 5025 7225 7383 10982 10989 11333 12456 13206 15171 15220 15328 15392 
+	}
+	history={
+		buildings = {
+			infrastructure = 3
+		}
+
+		owner = UKR
+		add_core_of = UKR
+	}
+	manpower=45900
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

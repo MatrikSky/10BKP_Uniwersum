@@ -1,0 +1,19 @@
+state={
+	id=1411
+	name="STATE_1411"
+	provinces={
+		513 1938 2029 3519 6328 7435 9149 12117 19250 20877 
+	}
+	history={
+		buildings = {
+			infrastructure = 7
+			industrial_complex = 1
+		}
+
+		owner = ITA
+		add_core_of = ITA
+	}
+	manpower=238196
+	buildings_max_level_factor=1.000
+	state_category=city
+}

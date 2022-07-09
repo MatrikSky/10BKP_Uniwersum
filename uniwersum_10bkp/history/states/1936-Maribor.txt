@@ -1,0 +1,19 @@
+state={
+	id=1936
+	name="STATE_1936"
+	provinces={
+		2173 3460 4520 10256 12014 19035 19069 19088 19124 20704 
+	}
+	history={
+		buildings = {
+			infrastructure = 7
+			industrial_complex = 1
+		}
+
+		owner = SLV
+		add_core_of = SLV
+	}
+	manpower=142664
+	buildings_max_level_factor=1.000
+	state_category=city
+}

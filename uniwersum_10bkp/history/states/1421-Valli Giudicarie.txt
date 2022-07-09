@@ -1,0 +1,19 @@
+
+state={
+	id=1421
+	name="STATE_1421"
+	provinces={
+		3257 5061 8593 9308 11086 13071 13296 19177 19212 19265 
+	}
+	history={
+		buildings = {
+			infrastructure = 3
+		}
+
+		owner = ITA
+		add_core_of = ITA
+	}
+	manpower=25323
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

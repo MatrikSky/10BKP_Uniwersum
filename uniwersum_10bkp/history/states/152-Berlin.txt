@@ -1,0 +1,21 @@
+
+state={
+	id=152
+	name="STATE_152"
+	provinces={
+		2533 3325 3441 5702 6066 6641 7637 8667 9242 10905 13059 15136 15140 15167 15187 15206 15250 19216 20486 20488 20932 
+	}
+	history={
+		buildings = {
+			infrastructure = 10
+			industrial_complex = 4
+			arms_factory = 3
+		}
+		victory_points = { 3325 35 }
+		owner = GER
+		add_core_of = GER
+	}
+	manpower=4321521
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+}

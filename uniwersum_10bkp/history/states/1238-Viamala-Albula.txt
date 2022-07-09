@@ -1,0 +1,18 @@
+state={
+	id=1238
+	name="STATE_1238"
+	provinces={
+		635 1052 13528 20738 20741 20743 20745 
+	}
+	history={
+		buildings = {
+			infrastructure = 3
+		}
+
+		owner = SWI
+		add_core_of = SWI
+	}
+	manpower=14066
+	buildings_max_level_factor=1.000
+    state_category=pastoral
+}

@@ -1,0 +1,26 @@
+bookmarks = {
+	bookmark = {
+		name = "NOWY_POCZATEK_BOOKMARK_NAME"
+		desc = "NOWY_POCZATEK_BOOKMARK_DESC"
+		date = 2020.1.1.12
+		picture = "GFX_2020_bookmark"
+		default_country = "POL"
+		default = yes
+
+		"POL"={
+			history = "POL_NP_DESC"
+			ideology = bez_powiazan
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+
+		"---"={
+			history = "OTHER_GATHERING_STORM_DESC"
+		}
+
+		# minors ####
+
+	}
+}

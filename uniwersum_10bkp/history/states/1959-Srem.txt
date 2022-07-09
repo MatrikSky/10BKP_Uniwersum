@@ -1,0 +1,18 @@
+state={
+	id=1959
+	name="STATE_1959"
+	provinces={
+		230 1785 1872 2613 2909 3241 3595 3702 3870 5514 6145 6483 6734 6797 8861 10078 10734 12381 12492 12985 19404 19410 19419 19420 19426 19430 19467 19486 21082 21093 
+	}
+	history={
+		buildings = {
+			infrastructure = 6
+		}
+
+		owner = SER
+		add_core_of = SER
+	}
+	manpower=294116
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

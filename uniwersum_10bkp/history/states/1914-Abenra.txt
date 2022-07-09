@@ -1,0 +1,18 @@
+state={
+	id=1914
+	name="STATE_1914"
+	provinces={
+		604 644 814 4888 12911 13746 13845 13864 19544 
+	}
+	history={
+		buildings = {
+			infrastructure = 4
+		}
+
+		owner = DEN
+		add_core_of = DEN
+	}
+	manpower=84000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

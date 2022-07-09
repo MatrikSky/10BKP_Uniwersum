@@ -1,0 +1,19 @@
+
+state={
+	id=1039
+	name="STATE_1039"
+	provinces={
+		2669 5786 7681 8482 10671 17733 17737 17763 17767 
+	}
+	history={
+		buildings = {
+			infrastructure = 5
+		}
+
+		owner = CZE
+		add_core_of = CZE
+	}
+	manpower=95700
+	buildings_max_level_factor=1.000
+	state_category=town
+}

@@ -1,0 +1,18 @@
+state={
+	id=1957
+	name="STATE_1957"
+	provinces={
+		490 585 1607 1985 2915 2980 3869 8084 9389 10651 10656 10953 11024 12523 19527 19528 19540 21042 21043 21044 21045 21046 
+	}
+	history={
+		buildings = {
+			infrastructure = 4
+		}
+
+		owner = BOS
+		add_core_of = BOS
+	}
+	manpower=98002
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

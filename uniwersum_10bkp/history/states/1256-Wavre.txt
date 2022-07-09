@@ -1,0 +1,19 @@
+state={
+	id=1256
+	name="STATE_1256"
+	provinces={
+		157 7094 9985 12037 16243 16301 20751 20752 
+	}
+	history={
+		buildings = {
+			infrastructure = 7
+			industrial_complex = 1
+		}
+
+		owner = BEL
+		add_core_of = BEL
+	}
+	manpower=174674
+	buildings_max_level_factor=1.000
+	state_category=city
+}

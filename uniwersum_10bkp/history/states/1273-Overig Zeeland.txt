@@ -1,0 +1,20 @@
+
+state={
+	id=1273
+	name="STATE_1273"
+	provinces={
+		3779 15597 15819 20505 20792 
+	}
+	history={
+		buildings = {
+			infrastructure = 7
+			industrial_complex = 1
+		}
+
+		owner = HOL
+		add_core_of = HOL
+	}
+	manpower=185027
+	buildings_max_level_factor=1.000
+	state_category=city
+}

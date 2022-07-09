@@ -1,0 +1,18 @@
+state={
+	id=1892
+	name="STATE_1892"
+	provinces={
+		1760 2761 3563 5415 7570 10600 10697 13713 13726 
+	}
+    history={
+		buildings = {
+			infrastructure = 5
+		}
+
+		owner = SWE
+		add_core_of = SWE
+	}
+	manpower=145300
+	buildings_max_level_factor=1.000
+	state_category=town
+}

@@ -1,0 +1,19 @@
+
+state={
+	id=1693
+	name="STATE_1693"
+	provinces={
+		1449 1660 2226 2459 3501 3628 4117 5030 5163 5575 5814 7132 11815 11865 12055 12155 12365 12581 12856 14573 14646 14647 14689 14709 14731 14732 14764 14780 14829 14874 14931 
+	}
+	history={
+		buildings = {
+			infrastructure = 4
+		}
+
+		owner = BLR
+		add_core_of = BLR
+	}
+	manpower=76020
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

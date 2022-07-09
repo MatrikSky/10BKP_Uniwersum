@@ -1,0 +1,18 @@
+state={
+	id=1872
+	name="STATE_1872"
+	provinces={
+		1298 2228 2451 2754 2940 4446 4698 4820 6115 9880 10276 10690 11694 12505 13704 17947 20270 20326 20534 
+	}
+	history={
+		buildings = {
+			infrastructure = 6
+		}
+
+		owner = MOL
+		add_core_of = ROM
+	}
+	manpower=394206
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

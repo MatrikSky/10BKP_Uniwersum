@@ -1,0 +1,18 @@
+state={
+	id=1954
+	name="STATE_1954"
+	provinces={
+		3788 8311 19457 
+	}
+	history={
+		buildings = {
+			infrastructure = 3
+		}
+
+		owner = BOS
+		add_core_of = BOS
+	}
+	manpower=38737
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

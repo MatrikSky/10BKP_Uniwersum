@@ -1,0 +1,18 @@
+state={
+	id=1201
+	name="STATE_1201"
+	provinces={
+		2996 6361 8890 9052 12789 17455 
+	}
+	history={
+		buildings = {
+			infrastructure = 3
+		}
+
+		owner = SLO
+		add_core_of = SLO
+	}
+	manpower=20923
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

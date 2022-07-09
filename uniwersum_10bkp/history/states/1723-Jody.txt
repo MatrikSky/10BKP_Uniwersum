@@ -1,0 +1,18 @@
+state={
+	id=1723
+	name="STATE_1723"
+	provinces={
+		2565 4717 10065 
+	}
+	history={
+		buildings = {
+			infrastructure = 3
+		}
+
+		owner = BLR
+		add_core_of = BLR
+	}
+	manpower=21465
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

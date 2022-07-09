@@ -1,0 +1,18 @@
+state={
+	id=1578
+	name="STATE_1578"
+	provinces={
+		878 2138 3960 6612 8426 9318 10903 12258 16457 16570 16601 16621 16755 
+	}
+	history={
+		buildings = {
+			infrastructure = 5
+		}
+
+		owner = POL
+		add_core_of = POL
+	}
+	manpower=126000
+	buildings_max_level_factor=1.000
+	state_category=town
+}

@@ -1,0 +1,19 @@
+state={
+	id=1653
+	name="STATE_1653"
+	provinces={
+		2145 2849 4129 5965 8502 9063 9129 12410 16732 16741 16812 16818 16935 
+	}
+	history={
+		buildings = {
+			infrastructure = 7
+			industrial_complex = 1
+		}
+
+		owner = UKR
+		add_core_of = UKR
+	}
+	manpower=142800
+	buildings_max_level_factor=1.000
+	state_category=city
+}

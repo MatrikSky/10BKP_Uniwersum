@@ -1,0 +1,20 @@
+state={
+	id=1847
+	name="STATE_1847"
+	provinces={
+		192 509 536 1759 1830 2058 2132 2825 3340 3731 3747 4484 4515 5192 5445 6316 6532 7454 7929 8066 8750 8814 9042 9669 11642 11960 19389 19405 19464 19472 19512 
+	}
+	history={
+		buildings = {
+			infrastructure = 10
+			industrial_complex = 4
+			arms_factory = 3
+		}
+
+		owner = ROM
+		add_core_of = ROM
+	}
+	manpower=1019553
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+}

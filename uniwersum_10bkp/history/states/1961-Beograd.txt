@@ -1,0 +1,20 @@
+state={
+	id=1961
+	name="STATE_1961"
+	provinces={
+		1040 2525 2810 3256 4651 5424 7572 8398 8558 10565 10961 19515 19518 
+	}
+	history={
+		buildings = {
+			infrastructure = 8
+			industrial_complex = 2
+			arms_factory = 1
+		}
+
+		owner = SER
+		add_core_of = SER
+	}
+	manpower=288938
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

@@ -1,0 +1,19 @@
+state={
+	id=1481
+	name="STATE_1481"
+	provinces={
+		9944 
+	}
+	history={
+		buildings = {
+			infrastructure = 7
+			industrial_complex = 1
+		}
+
+		owner = POL
+		add_core_of = POL
+	}
+	manpower=117200
+	buildings_max_level_factor=1.000
+	state_category=city
+}

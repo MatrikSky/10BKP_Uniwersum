@@ -1,0 +1,18 @@
+state={
+	id=1873
+	name="STATE_1873"
+	provinces={
+		224 2943 3794 4855 10034 11457 11667 17520 17708 
+	}
+	history={
+		buildings = {
+			infrastructure = 6
+		}
+
+		owner = MOL
+		add_core_of = MOL
+	}
+	manpower=322089
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

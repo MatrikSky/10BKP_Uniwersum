@@ -1,0 +1,19 @@
+
+state={
+	id=395
+	name="STATE_395"
+	provinces={
+		374 2023 8945 9794 11466 13277 16613 16645 16659 16671 16686 
+	}
+	history={
+		buildings = {
+			infrastructure = 5
+		}
+
+		owner = GER
+		add_core_of = GER
+	}
+	manpower=114495
+	buildings_max_level_factor=1.000
+	state_category=town
+}

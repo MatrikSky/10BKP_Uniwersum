@@ -1,0 +1,18 @@
+state={
+	id=1958
+	name="STATE_1958"
+	provinces={
+		1320 1734 1954 2713 4279 4281 4341 5315 6404 6700 7783 8009 9502 9713 9848 10860 13340 13459 21067 21079 21096 
+	}
+	history={
+		buildings = {
+			infrastructure = 5
+		}
+
+		owner = BOS
+		add_core_of = BOS
+	}
+	manpower=100341
+	buildings_max_level_factor=1.000
+	state_category=town
+}

@@ -1,0 +1,18 @@
+state={
+	id=1895
+	name="STATE_1895"
+	provinces={
+		1200 2555 6338 6862 7856 8345 12288 13752 13777 20386 
+	}
+	history={
+		buildings = {
+			infrastructure = 5
+		}
+
+		owner = DEN
+		add_core_of = DEN
+	}
+	manpower=123700
+	buildings_max_level_factor=1.000
+	state_category=town
+}

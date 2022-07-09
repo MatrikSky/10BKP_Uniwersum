@@ -1,0 +1,18 @@
+state={
+	id=1648
+	name="STATE_1648"
+	provinces={
+		5017 5392 7576 8416 8592 16731 16800 
+	}
+	history={
+		buildings = {
+			infrastructure = 4
+		}
+
+		owner = UKR
+		add_core_of = UKR
+	}
+	manpower=73780
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

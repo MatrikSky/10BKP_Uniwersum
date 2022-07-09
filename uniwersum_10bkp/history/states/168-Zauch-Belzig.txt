@@ -1,0 +1,18 @@
+state={
+	id=168
+	name="STATE_168"
+	provinces={
+		2621 2895 3245 3364 3905 5499 5738 6029 6570 7017 7028 7639 7928 9406 9854 11359 11461 12874 12880 15265 15279 15324 15335 15377 15378 15429 15437 15446 15476 15486 15513 15549 15553 20489 
+	}
+	history={
+		buildings = {
+			infrastructure = 5
+		}
+
+		owner = GER
+		add_core_of = GER
+	}
+	manpower=108855
+	buildings_max_level_factor=1.000
+    state_category=town
+}

@@ -1,0 +1,18 @@
+state={
+	id=1922
+	name="STATE_1922"
+	provinces={
+		2434 2506 2672 3555 6175 7410 10175 19153 19178 19192 19206 
+	}
+	history={
+		buildings = {
+			infrastructure = 4
+		}
+
+		owner = SLV
+		add_core_of = SLV
+	}
+	manpower=59221
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

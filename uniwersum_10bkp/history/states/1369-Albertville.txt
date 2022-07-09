@@ -1,0 +1,18 @@
+state={
+	id=1369
+	name="STATE_1369"
+	provinces={
+		210 440 2462 2979 3897 6056 9221 10298 11661 19326 20833 
+	}
+	history={
+		buildings = {
+			infrastructure = 4
+		}
+
+		owner = FRA
+		add_core_of = FRA
+	}
+	manpower=67623
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

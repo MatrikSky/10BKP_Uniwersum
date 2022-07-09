@@ -1,0 +1,18 @@
+state={
+	id=1828
+	name="STATE_1828"
+	provinces={
+		12 1090 1339 1518 1709 2706 2972 3181 6088 6458 6868 7823 9672 12776 19051 19137 19146 
+	}
+	history={
+		buildings = {
+			infrastructure = 6
+		}
+
+		owner = ROM
+		add_core_of = ROM
+	}
+	manpower=218071
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

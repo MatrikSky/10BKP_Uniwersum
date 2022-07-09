@@ -1,0 +1,18 @@
+state={
+	id=1071
+	name="STATE_1071"
+	provinces={
+		143 1737 3059 3222 3292 3361 3899 5629 6421 6756 7590 9079 9206 12909 18408 18463 18504 18513 18557 18565 18595 18608 18645 18667 20538 
+	}
+	history={
+		buildings = {
+			infrastructure = 4
+		}
+
+		owner = AUS
+		add_core_of = AUS
+	}
+	manpower=79532
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

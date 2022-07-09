@@ -1,0 +1,18 @@
+state={
+	id=1884
+	name="STATE_1884"
+	provinces={
+		1404 2036 2188 2545 3963 5304 6008 7787 8466 8952 9235 12510 13719 13720 13728 13738 13750 20950 20967 
+	}
+	history={
+		buildings = {
+			infrastructure = 5
+		}
+
+		owner = LIT
+		add_core_of = LIT
+	}
+	manpower=178100
+	buildings_max_level_factor=1.000
+	state_category=town
+}

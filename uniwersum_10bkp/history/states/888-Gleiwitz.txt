@@ -1,0 +1,19 @@
+state={
+	id=888
+	name="STATE_888"
+	provinces={
+		6507 7734 
+	}
+	history={
+		buildings = {
+			infrastructure = 7
+			industrial_complex = 1
+		}
+
+		owner = POL
+		add_core_of = POL
+	}
+	manpower=114048
+	buildings_max_level_factor=1.000
+	state_category=city
+}

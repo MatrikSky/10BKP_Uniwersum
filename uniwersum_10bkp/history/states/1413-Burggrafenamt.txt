@@ -1,0 +1,18 @@
+state={
+	id=1413
+	name="STATE_1413"
+	provinces={
+		614 1735 4904 7551 8726 18936 18955 18988 19001 19028 19036 19049 19062 19075 
+	}
+	history={
+		buildings = {
+			infrastructure = 4
+		}
+
+		owner = ITA
+		add_core_of = ITA
+	}
+	manpower=60711
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

@@ -1,0 +1,18 @@
+state={
+	id=9
+	name="STATE_9"
+	provinces={
+		1377 6733 7344 10904 13914 13924 13936 
+	}
+	history={
+		buildings = {
+			infrastructure = 3
+		}
+
+		owner = SOV
+		add_core_of = SOV
+	}
+	manpower=17305
+	buildings_max_level_factor=1.000
+    state_category=pastoral
+}

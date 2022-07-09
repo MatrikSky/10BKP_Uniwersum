@@ -1,0 +1,18 @@
+state={
+	id=1874
+	name="STATE_1874"
+	provinces={
+		1711 2141 5341 8827 10393 11406 13191 13978 13996 20984 
+	}
+	history={
+		buildings = {
+			infrastructure = 3
+		}
+
+		owner = LIT
+		add_core_of = LIT
+	}
+	manpower=48000
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

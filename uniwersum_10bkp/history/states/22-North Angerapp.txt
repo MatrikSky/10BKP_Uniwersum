@@ -1,0 +1,19 @@
+
+state={
+	id=22
+	name="STATE_22"
+	provinces={
+		7484 8117 11280 11778 13920 13938 13939 
+	}
+	history={
+		buildings = {
+			infrastructure = 3
+		}
+
+		owner = SOV
+		add_core_of = SOV
+	}
+	manpower=25740
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

@@ -1,0 +1,24 @@
+state={
+	id=1536
+	name="STATE_1536"
+	provinces={
+		4721 5168 6278 7972 8399 8587 8744 9216 10004 10469 10614 11057 11615 14994 15094 15122 15209 15319 
+	}
+	history={
+		buildings = {
+			infrastructure = 8
+			industrial_complex = 2
+			arms_factory = 1
+		}
+		victory_points = { 8587 5 }
+		victory_points = { 11615 5 }
+		victory_points = { 14994 5 }
+		victory_points = { 15122 5 }
+		victory_points = { 11057 5 }
+		owner = POL
+		add_core_of = POL
+	}
+	manpower=318500
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

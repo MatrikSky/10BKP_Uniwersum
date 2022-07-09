@@ -1,0 +1,18 @@
+state={
+	id=900
+	name="STATE_900"
+	provinces={
+		6508 6539 6707 
+	}
+	history={
+		buildings = {
+			infrastructure = 3
+		}
+
+		owner = CZE
+		add_core_of = CZE
+	}
+	manpower=34068
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

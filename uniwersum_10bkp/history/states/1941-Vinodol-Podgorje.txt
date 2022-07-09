@@ -1,0 +1,18 @@
+state={
+	id=1941
+	name="STATE_1941"
+	provinces={
+		1447 2766 11119 12004 13090 21008 21009 21010 21104 
+	}
+	history={
+		buildings = {
+			infrastructure = 4
+		}
+
+		owner = CRO
+		add_core_of = CRO
+	}
+	manpower=85332
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

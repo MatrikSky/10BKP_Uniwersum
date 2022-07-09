@@ -1,0 +1,20 @@
+state={
+	id=1395
+	name="STATE_1395"
+	provinces={
+		29 863 900 934 1173 3296 5874 8234 10595 11685 11826 19343 20868 
+	}
+	history={
+		buildings = {
+			infrastructure = 10
+			industrial_complex = 4
+			arms_factory = 3
+		}
+
+		owner = ITA
+		add_core_of = ITA
+	}
+	manpower=2152556
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+}

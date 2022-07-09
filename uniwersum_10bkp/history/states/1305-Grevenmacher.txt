@@ -1,0 +1,18 @@
+state={
+	id=1305
+	name="STATE_1305"
+	provinces={
+		2952 5284 7091 11091 11820 17022 17113 17186 
+	}
+    history={
+		buildings = {
+			infrastructure = 3
+		}
+
+		owner = LUX
+		add_core_of = LUX
+	}
+	manpower=31629
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

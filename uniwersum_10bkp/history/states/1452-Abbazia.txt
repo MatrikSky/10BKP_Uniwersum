@@ -1,0 +1,18 @@
+state={
+	id=1452
+	name="STATE_1452"
+	provinces={
+		89 4307 7741 9953 13413 19375 19393 
+	}
+	history={
+		buildings = {
+			infrastructure = 3
+		}
+
+		owner = CRO
+		add_core_of = CRO
+	}
+	manpower=29217
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

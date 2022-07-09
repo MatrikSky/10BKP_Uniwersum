@@ -1,0 +1,18 @@
+state={
+	id=1820
+	name="STATE_1820"
+	provinces={
+		538 894 1409 1469 1718 2276 2611 3847 4056 4096 4692 4804 5352 6277 6675 8205 8542 9155 9412 9449 11767 12415 18788 18804 18901 18959 
+	}
+	history={
+		buildings = {
+			infrastructure = 5
+		}
+
+		owner = ROM
+		add_core_of = ROM
+	}
+	manpower=172246
+	buildings_max_level_factor=1.000
+	state_category=town
+}

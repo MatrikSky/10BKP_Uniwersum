@@ -1,0 +1,19 @@
+
+state={
+	id=946
+	name="STATE_946"
+	provinces={
+		4476 5231 8349 17032 17088 17138 17165 
+	}
+	history={
+		buildings = {
+			infrastructure = 3
+		}
+
+		owner = CZE
+		add_core_of = CZE
+	}
+	manpower=47721
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

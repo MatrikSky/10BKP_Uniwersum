@@ -1,0 +1,18 @@
+state={
+	id=43
+	name="STATE_43"
+	provinces={
+		13757 
+	}
+	history={
+		buildings = {
+			infrastructure = 5
+		}
+
+		owner = LIT
+		add_core_of = LIT
+	}
+	manpower=43285
+	buildings_max_level_factor=1.000
+    state_category=town
+}

@@ -1,0 +1,18 @@
+state={
+	id=1767
+	name="STATE_1767"
+	provinces={
+		3010 4426 5484 6274 11030 12264 19093 
+	}
+	history={
+		buildings = {
+			infrastructure = 5
+		}
+
+		owner = CRO
+		add_core_of = CRO
+	}
+	manpower=101345
+	buildings_max_level_factor=1.000
+	state_category=town
+}

@@ -1,0 +1,18 @@
+state={
+	id=1714
+	name="STATE_1714"
+	provinces={
+		326 358 831 1497 1636 2279 2799 2894 4065 4428 5003 5024 5680 6505 6856 6910 7254 10971 11180 12065 12262 12397 13835 13876 20889 20890 20891 20892 20929 
+	}
+	history={
+		buildings = {
+			infrastructure = 5
+		}
+
+		owner = LIT
+		add_core_of = LIT
+	}
+	manpower=182325
+	buildings_max_level_factor=1.000
+	state_category=town
+}

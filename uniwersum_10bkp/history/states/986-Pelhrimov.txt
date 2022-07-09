@@ -1,0 +1,18 @@
+state={
+	id=986
+	name="STATE_986"
+	provinces={
+		4058 6616 8160 10597 12263 12735 
+	}
+	history={
+		buildings = {
+			infrastructure = 4
+		}
+
+		owner = CZE
+		add_core_of = CZE
+	}
+	manpower=47500
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

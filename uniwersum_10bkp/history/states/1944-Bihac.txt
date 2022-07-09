@@ -1,0 +1,18 @@
+state={
+	id=1944
+	name="STATE_1944"
+	provinces={
+		398 4401 4503 8053 8208 8812 11805 12771 19526 21017 21029 21030 21041 
+	}
+	history={
+		buildings = {
+			infrastructure = 5
+		}
+
+		owner = BOS
+		add_core_of = BOS
+	}
+	manpower=166050
+	buildings_max_level_factor=1.000
+	state_category=town
+}

@@ -1,0 +1,18 @@
+state={
+	id=542
+	name="STATE_542"
+	provinces={
+		1806 2019 3210 8614 9835 12618 16468 16485 16518 16534 16542 16557 16569 16602 
+	}
+	history={
+		buildings = {
+			infrastructure = 5
+		}
+
+		owner = GER
+		add_core_of = GER
+	}
+	manpower=109027
+	buildings_max_level_factor=1.000
+	state_category=town
+}

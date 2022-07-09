@@ -1,0 +1,19 @@
+
+state={
+	id=1915
+	name="STATE_1915"
+	provinces={
+		4831 5246 9023 10550 13872 19562 20399 
+	}
+	history={
+		buildings = {
+			infrastructure = 3
+		}
+
+		owner = DEN
+		add_core_of = DEN
+	}
+	manpower=43350
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

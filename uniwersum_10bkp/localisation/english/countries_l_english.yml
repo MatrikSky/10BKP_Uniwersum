@@ -1,0 +1,1092 @@
+﻿l_english:
+ ##----##
+
+ AUS_konserwatyzm:0 "Austria"
+ AUS_konserwatyzm_DEF:0 "Austria"
+ AUS_konserwatyzm_ADJ:0 "aus."
+
+ AUS_liberalizm:0 "Austria"
+ AUS_liberalizm_DEF:0 "Austria"
+ AUS_liberalizm_ADJ:0 "aus."
+
+ AUS_libertarianizm:0 "Austria"
+ AUS_libertarianizm_DEF:0 "Austria"
+ AUS_libertarianizm_ADJ:0 "aus."
+
+ AUS_socjalizm:0 "Austriacka Republika Ludowa"
+ AUS_socjalizm_DEF:0 "Austriacka Republika Ludowa"
+ AUS_socjalizm_ADJ:0 "aus."
+
+ AUS_komunizm:0 "Austriacka Republika Ludowa"
+ AUS_komunizm_DEF:0 "Austriacka Republika Ludowa"
+ AUS_komunizm_ADJ:0 "aus."
+
+ AUS_nacjonalizm:0 "Republika Austriacka"
+ AUS_nacjonalizm_DEF:0 "Republika Austriacka"
+ AUS_nacjonalizm_ADJ:0 "aus."
+
+ AUS_faszyzm:0 "Republika Austriacka"
+ AUS_faszyzm_DEF:0 "Republika Austriacka"
+ AUS_faszyzm_ADJ:0 "aus."
+
+ AUS_monarchizm:0 "Królestwo Austrii"
+ AUS_monarchizm_DEF:0 "Królestwo Austrii"
+ AUS_monarchizm_ADJ:0 "aus."
+
+ AUS_bez_powiazan:0 "Austria"
+ AUS_bez_powiazan_DEF:0 "Austria"
+ AUS_bez_powiazan_ADJ:0 "aus."
+
+ AUS:0 "Austria"
+ AUS_DEF:0 "Austria"
+ AUS_ADJ:0 "aus."
+
+ ##----##
+
+ BEL_konserwatyzm:0 "Belgia"
+ BEL_konserwatyzm_DEF:0 "Belgia"
+ BEL_konserwatyzm_ADJ:0 "bel."
+
+ BEL_liberalizm:0 "Belgia"
+ BEL_liberalizm_DEF:0 "Belgia"
+ BEL_liberalizm_ADJ:0 "bel."
+
+ BEL_libertarianizm:0 "Belgia"
+ BEL_libertarianizm_DEF:0 "Belgia"
+ BEL_libertarianizm_ADJ:0 "bel."
+
+ BEL_socjalizm:0 "Demokratyczna Republika Belgii"
+ BEL_socjalizm_DEF:0 "Demokratyczna Republika Belgii"
+ BEL_socjalizm_ADJ:0 "bel."
+
+ BEL_komunizm:0 "Demokratyczna Republika Belgii"
+ BEL_komunizm_DEF:0 "Demokratyczna Republika Belgii"
+ BEL_komunizm_ADJ:0 "bel."
+
+ BEL_nacjonalizm:0 "Belgia"
+ BEL_nacjonalizm_DEF:0 "Belgia"
+ BEL_nacjonalizm_ADJ:0 "bel."
+
+ BEL_faszyzm:0 "Reksistowska Belgia"
+ BEL_faszyzm_DEF:0 "Reksistowska Belgia"
+ BEL_faszyzm_ADJ:0 "bel."
+
+ BEL_monarchizm:0 "Królestwo Belgii"
+ BEL_monarchizm_DEF:0 "Królestwo Belgii"
+ BEL_monarchizm_ADJ:0 "bel."
+
+ BEL_bez_powiazan:0 "Belgia"
+ BEL_bez_powiazan_DEF:0 "Belgia"
+ BEL_bez_powiazan_ADJ:0 "bel."
+
+ BEL:0 "Belgia"
+ BEL_DEF:0 "Belgia"
+ BEL_ADJ:0 "bel."
+
+ ##----##
+
+ BLR_konserwatyzm:0 "Republika Białoruska"
+ BLR_konserwatyzm_DEF:0 "Republika Białoruska"
+ BLR_konserwatyzm_ADJ:0 "białor."
+
+ BLR_liberalizm:0 "Republika Białoruska"
+ BLR_liberalizm_DEF:0 "Belgia"
+ BLR_liberalizm_ADJ:0 "białor."
+
+ BLR_libertarianizm:0 "Republika Białoruska"
+ BLR_libertarianizm_DEF:0 "Republika Białoruska"
+ BLR_libertarianizm_ADJ:0 "białor."
+
+ BLR_socjalizm:0 "Białoruska Republika Socjalistyczna"
+ BLR_socjalizm_DEF:0 "Białoruska Republika Socjalistyczna"
+ BLR_socjalizm_ADJ:0 "białor."
+
+ BLR_komunizm:0 "Białoruska Republika Socjalistyczna"
+ BLR_komunizm_DEF:0 "Białoruska Republika Socjalistyczna"
+ BLR_komunizm_ADJ:0 "białor."
+
+ BLR_nacjonalizm:0 "Białoruś"
+ BLR_nacjonalizm_DEF:0 "Białoruś"
+ BLR_nacjonalizm_ADJ:0 "białor."
+
+ BLR_faszyzm:0 "Białoruś"
+ BLR_faszyzm_DEF:0 "Białoruś"
+ BLR_faszyzm_ADJ:0 "białor."
+
+ BLR_monarchizm:0 "Królestwo Białorusi"
+ BLR_monarchizm_DEF:0 "Królestwo Białorusi"
+ BLR_monarchizm_ADJ:0 "białor."
+
+ BLR_bez_powiazan:0 "Białoruś"
+ BLR_bez_powiazan_DEF:0 "Białoruś"
+ BLR_bez_powiazan_ADJ:0 "białor."
+
+ BLR:0 "Białoruś"
+ BLR_DEF:0 "Białoruś"
+ BLR_ADJ:0 "białor."
+
+ ##----##
+
+ BOS_konserwatyzm:0 "Bośnia i Hercegowina"
+ BOS_konserwatyzm_DEF:0 "Bośnia i Hercegowina"
+ BOS_konserwatyzm_ADJ:0 "boś."
+
+ BOS_liberalizm:0 "Bośnia i Hercegowina"
+ BOS_liberalizm_DEF:0 "Bośnia i Hercegowina"
+ BOS_liberalizm_ADJ:0 "boś."
+
+ BOS_libertarianizm:0 "Bośnia i Hercegowina"
+ BOS_libertarianizm_DEF:0 "Bośnia i Hercegowina"
+ BOS_libertarianizm_ADJ:0 "boś."
+
+ BOS_socjalizm:0 "Socjalistyczna Republika Bośni"
+ BOS_socjalizm_DEF:0 "Socjalistyczna Republika Bośni"
+ BOS_socjalizm_ADJ:0 "boś."
+
+ BOS_komunizm:0 "Socjalistyczna Republika Bośni"
+ BOS_komunizm_DEF:0 "Socjalistyczna Republika Bośni"
+ BOS_komunizm_ADJ:0 "boś."
+
+ BOS_nacjonalizm:0 "Bośnia"
+ BOS_nacjonalizm_DEF:0 "Bośnia"
+ BOS_nacjonalizm_ADJ:0 "boś."
+
+ BOS_faszyzm:0 "Bośnia"
+ BOS_faszyzm_DEF:0 "Bośnia"
+ BOS_faszyzm_ADJ:0 "boś."
+
+ BOS_monarchizm:0 "Królestwo Bośni"
+ BOS_monarchizm_DEF:0 "Królestwo Bośni"
+ BOS_monarchizm_ADJ:0 "boś."
+
+ BOS_bez_powiazan:0 "Bośnia i Hercegowina"
+ BOS_bez_powiazan_DEF:0 "Bośnia i Hercegowina"
+ BOS_bez_powiazan_ADJ:0 "boś."
+
+ BOS:0 "Bośnia"
+ BOS_DEF:0 "Bośnia"
+ BOS_ADJ:0 "boś."
+
+ ##----##
+
+ BUL_konserwatyzm:0 "Republika Bułgarska"
+ BUL_konserwatyzm_DEF:0 "Republika Bułgarska"
+ BUL_konserwatyzm_ADJ:0 "bułg."
+
+ BUL_liberalizm:0 "Republika Bułgarska"
+ BUL_liberalizm_DEF:0 "Republika Bułgarska"
+ BUL_liberalizm_ADJ:0 "bułg."
+
+ BUL_libertarianizm:0 "Republika Bułgarska"
+ BUL_libertarianizm_DEF:0 "Republika Bułgarska"
+ BUL_libertarianizm_ADJ:0 "bułg."
+
+ BUL_socjalizm:0 "Bułgarska Republika Ludowa"
+ BUL_socjalizm_DEF:0 "Bułgarska Republika Ludowa"
+ BUL_socjalizm_ADJ:0 "bułg."
+
+ BUL_komunizm:0 "Bułgarska Republika Ludowa"
+ BUL_komunizm_DEF:0 "Bułgarska Republika Ludowa"
+ BUL_komunizm_ADJ:0 "bułg."
+
+ BUL_nacjonalizm:0 "Bułgaria"
+ BUL_nacjonalizm_DEF:0 "Bułgaria"
+ BUL_nacjonalizm_ADJ:0 "bułg."
+
+ BUL_faszyzm:0 "Bułgaria"
+ BUL_faszyzm_DEF:0 "Bułgaria"
+ BUL_faszyzm_ADJ:0 "bułg."
+
+ BUL_monarchizm:0 "Carstwo Bułgarii"
+ BUL_monarchizm_DEF:0 "Carstwo Bułgarii"
+ BUL_monarchizm_ADJ:0 "bułg."
+
+ BUL_bez_powiazan:0 "Bułgaria"
+ BUL_bez_powiazan_DEF:0 "Bułgaria"
+ BUL_bez_powiazan_ADJ:0 "bułg."
+
+ BUL:0 "Bułgaria"
+ BUL_DEF:0 "Bułgaria"
+ BUL_ADJ:0 "bułg."
+
+ ##----##
+
+ CRO_konserwatyzm:0 "Republika Chorwacka"
+ CRO_konserwatyzm_DEF:0 "Republika Chorwacka"
+ CRO_konserwatyzm_ADJ:0 "chorw."
+
+ CRO_liberalizm:0 "Republika Chorwacka"
+ CRO_liberalizm_DEF:0 "Republika Chorwacka"
+ CRO_liberalizm_ADJ:0 "chorw."
+
+ CRO_libertarianizm:0 "Republika Chorwacka"
+ CRO_libertarianizm_DEF:0 "Republika Chorwacka"
+ CRO_libertarianizm_ADJ:0 "chorw."
+
+ CRO_socjalizm:0 "Socjalistyczna Republika Chorwacka"
+ CRO_socjalizm_DEF:0 "Socjalistyczna Republika Chorwacka"
+ CRO_socjalizm_ADJ:0 "chorw."
+
+ CRO_komunizm:0 "Socjalistyczna Republika Chorwacka"
+ CRO_komunizm_DEF:0 "Socjalistyczna Republika Chorwacka"
+ CRO_komunizm_ADJ:0 "chorw."
+
+ CRO_nacjonalizm:0 "Chorwacja"
+ CRO_nacjonalizm_DEF:0 "Chorwacja"
+ CRO_nacjonalizm_ADJ:0 "chorw."
+
+ CRO_faszyzm:0 "Chorwacja"
+ CRO_faszyzm_DEF:0 "Chorwacja"
+ CRO_faszyzm_ADJ:0 "chorw."
+
+ CRO_monarchizm:0 "Królestwo Chorwacji"
+ CRO_monarchizm_DEF:0 "Królestwo Chorwacji"
+ CRO_monarchizm_ADJ:0 "chorw."
+
+ CRO_bez_powiazan:0 "Chorwacja"
+ CRO_bez_powiazan_DEF:0 "Chorwacja"
+ CRO_bez_powiazan_ADJ:0 "chorw."
+
+ CRO:0 "Chorwacja"
+ CRO_DEF:0 "Chorwacja"
+ CRO_ADJ:0 "chorw."
+
+ ##----##
+
+ CZE_konserwatyzm:0 "Republika Czeska"
+ CZE_konserwatyzm_DEF:0 "Republika Czeska"
+ CZE_konserwatyzm_ADJ:0 "czech."
+
+ CZE_liberalizm:0 "Republika Czeska"
+ CZE_liberalizm_DEF:0 "Republika Czeska"
+ CZE_liberalizm_ADJ:0 "czech."
+
+ CZE_libertarianizm:0 "Republika Czeska"
+ CZE_libertarianizm_DEF:0 "Republika Czeska"
+ CZE_libertarianizm_ADJ:0 "czech."
+
+ CZE_socjalizm:0 "Czeska Republika Socjalistyczna"
+ CZE_socjalizm_DEF:0 "Czeska Republika Socjalistyczna"
+ CZE_socjalizm_ADJ:0 "czech."
+
+ CZE_komunizm:0 "Czeska Republika Socjalistyczna"
+ CZE_komunizm_DEF:0 "Czeska Republika Socjalistyczna"
+ CZE_komunizm_ADJ:0 "czech."
+
+ CZE_nacjonalizm:0 "Czechy"
+ CZE_nacjonalizm_DEF:0 "Czechy"
+ CZE_nacjonalizm_ADJ:0 "czech."
+
+ CZE_faszyzm:0 "Czechy"
+ CZE_faszyzm_DEF:0 "Czechy"
+ CZE_faszyzm_ADJ:0 "czech."
+
+ CZE_monarchizm:0 "Królestwo Czech"
+ CZE_monarchizm_DEF:0 "Królestwo Czech"
+ CZE_monarchizm_ADJ:0 "czech."
+
+ CZE_bez_powiazan:0 "Czechy"
+ CZE_bez_powiazan_DEF:0 "Czechy"
+ CZE_bez_powiazan_ADJ:0 "czech."
+
+ CZE:0 "Czechy"
+ CZE_DEF:0 "Czechy"
+ CZE_ADJ:0 "czech."
+
+ ##----##
+
+ DEN_konserwatyzm:0 "Dania"
+ DEN_konserwatyzm_DEF:0 "Dania"
+ DEN_konserwatyzm_ADJ:0 "duń."
+
+ DEN_liberalizm:0 "Dania"
+ DEN_liberalizm_DEF:0 "Dania"
+ DEN_liberalizm_ADJ:0 "duń."
+
+ DEN_libertarianizm:0 "Dania"
+ DEN_libertarianizm_DEF:0 "Dania"
+ DEN_libertarianizm_ADJ:0 "duń."
+
+ DEN_socjalizm:0 "Duńska Republika Ludowa"
+ DEN_socjalizm_DEF:0 "Duńska Republika Ludowa"
+ DEN_socjalizm_ADJ:0 "duń."
+
+ DEN_komunizm:0 "Duńska Republika Ludowa"
+ DEN_komunizm_DEF:0 "Duńska Republika Ludowa"
+ DEN_komunizm_ADJ:0 "duń."
+
+ DEN_nacjonalizm:0 "Dania"
+ DEN_nacjonalizm_DEF:0 "Dania"
+ DEN_nacjonalizm_ADJ:0 "duń."
+
+ DEN_faszyzm:0 "Imperium Morza Północnego"
+ DEN_faszyzm_DEF:0 "Imperium Morza Północnego"
+ DEN_faszyzm_ADJ:0 "duń."
+
+ DEN_monarchizm:0 "Królestwo Danii"
+ DEN_monarchizm_DEF:0 "Królestwo Danii"
+ DEN_monarchizm_ADJ:0 "duń."
+
+ DEN_bez_powiazan:0 "Dania"
+ DEN_bez_powiazan_DEF:0 "Dania"
+ DEN_bez_powiazan_ADJ:0 "duń."
+
+ DEN:0 "Dania"
+ DEN_DEF:0 "Dania"
+ DEN_ADJ:0 "duń."
+
+ ##----##
+
+ FRA_konserwatyzm:0 "Francja"
+ FRA_konserwatyzm_DEF:0 "Francja"
+ FRA_konserwatyzm_ADJ:0 "franc."
+
+ FRA_liberalizm:0 "Francja"
+ FRA_liberalizm_DEF:0 "Francja"
+ FRA_liberalizm_ADJ:0 "franc."
+
+ FRA_libertarianizm:0 "Francja"
+ FRA_libertarianizm_DEF:0 "Francja"
+ FRA_libertarianizm_ADJ:0 "franc."
+
+ FRA_socjalizm:0 "Komuna Francuska"
+ FRA_socjalizm_DEF:0 "Komuna Francuska"
+ FRA_socjalizm_ADJ:0 "franc."
+
+ FRA_komunizm:0 "Komuna Francuska"
+ FRA_komunizm_DEF:0 "Komuna Francuska"
+ FRA_komunizm_ADJ:0 "franc."
+
+ FRA_nacjonalizm:0 "Francja"
+ FRA_nacjonalizm_DEF:0 "Francja"
+ FRA_nacjonalizm_ADJ:0 "franc."
+
+ FRA_faszyzm:0 "Nation Française"
+ FRA_faszyzm_DEF:0 "Nation Française"
+ FRA_faszyzm_ADJ:0 "franc."
+
+ FRA_monarchizm:0 "Królestwo Francji"
+ FRA_monarchizm_DEF:0 "Królestwo Francji"
+ FRA_monarchizm_ADJ:0 "franc."
+
+ FRA_bez_powiazan:0 "Francja"
+ FRA_bez_powiazan_DEF:0 "Francja"
+ FRA_bez_powiazan_ADJ:0 "franc."
+
+ FRA:0 "Francja"
+ FRA_DEF:0 "Francja"
+ FRA_ADJ:0 "franc."
+
+ ##----##
+
+ GER_konserwatyzm:0 "Republika Niemiecka"
+ GER_konserwatyzm_DEF:0 "Republika Niemiecka"
+ GER_konserwatyzm_ADJ:0 "niem."
+
+ GER_liberalizm:0 "Republika Niemiecka"
+ GER_liberalizm_DEF:0 "Republika Niemiecka"
+ GER_liberalizm_ADJ:0 "niem."
+
+ GER_libertarianizm:0 "Republika Niemiecka"
+ GER_libertarianizm_DEF:0 "Republika Niemiecka"
+ GER_libertarianizm_ADJ:0 "niem."
+
+ GER_socjalizm:0 "Niemiecka Republika Demokratyczna"
+ GER_socjalizm_DEF:0 "Niemiecka Republika Demokratyczna"
+ GER_socjalizm_ADJ:0 "niem."
+
+ GER_komunizm:0 "Niemiecka Republika Demokratyczna"
+ GER_komunizm_DEF:0 "Niemiecka Republika Demokratyczna"
+ GER_komunizm_ADJ:0 "niem."
+
+ GER_nacjonalizm:0 "Republika Niemiecka"
+ GER_nacjonalizm_DEF:0 "Republika Niemiecka"
+ GER_nacjonalizm_ADJ:0 "niem."
+
+ GER_faszyzm:0 "Rzesza Niemiecka"
+ GER_faszyzm_DEF:0 "Rzesza Niemiecka"
+ GER_faszyzm_ADJ:0 "niem."
+
+ GER_monarchizm:0 "Cesarstwo Niemieckie"
+ GER_monarchizm_DEF:0 "Cesarstwo Niemieckie"
+ GER_monarchizm_ADJ:0 "niem."
+
+ GER_bez_powiazan:0 "Republika Niemiecka"
+ GER_bez_powiazan_DEF:0 "Republika Niemiecka"
+ GER_bez_powiazan_ADJ:0 "niem."
+
+ GER:0 "Republika Niemiecka"
+ GER_DEF:0 "Republika Niemiecka"
+ GER_ADJ:0 "niem."
+
+ ##----##
+
+ HOL_konserwatyzm:0 "Holandia"
+ HOL_konserwatyzm_DEF:0 "Holandia"
+ HOL_konserwatyzm_ADJ:0 "hol."
+
+ HOL_liberalizm:0 "Holandia"
+ HOL_liberalizm_DEF:0 "Holandia"
+ HOL_liberalizm_ADJ:0 "hol."
+
+ HOL_libertarianizm:0 "Holandia"
+ HOL_libertarianizm_DEF:0 "Holandia"
+ HOL_libertarianizm_ADJ:0 "hol."
+
+ HOL_socjalizm:0 "Holenderska Republika Ludowa"
+ HOL_socjalizm_DEF:0 "Holenderska Republika Ludowa"
+ HOL_socjalizm_ADJ:0 "hol."
+
+ HOL_komunizm:0 "Holenderska Republika Ludowa"
+ HOL_komunizm_DEF:0 "Holenderska Republika Ludowa"
+ HOL_komunizm_ADJ:0 "hol."
+
+ HOL_nacjonalizm:0 "Holandia"
+ HOL_nacjonalizm_DEF:0 "Holandia"
+ HOL_nacjonalizm_ADJ:0 "hol."
+
+ HOL_faszyzm:0 "Holenderski Rijk"
+ HOL_faszyzm_DEF:0 "Holenderski Rijk"
+ HOL_faszyzm_ADJ:0 "hol."
+
+ HOL_monarchizm:0 "Królestwo Holandii"
+ HOL_monarchizm_DEF:0 "Królestwo Holandii"
+ HOL_monarchizm_ADJ:0 "hol."
+
+ HOL_bez_powiazan:0 "Holandia"
+ HOL_bez_powiazan_DEF:0 "Holandia"
+ HOL_bez_powiazan_ADJ:0 "hol."
+
+ HOL:0 "Holandia"
+ HOL_DEF:0 "Holandia"
+ HOL_ADJ:0 "hol."
+
+ ##----##
+
+ HUN_konserwatyzm:0 "Republika Węgierska"
+ HUN_konserwatyzm_DEF:0 "Republika Węgierska"
+ HUN_konserwatyzm_ADJ:0 "węg."
+
+ HUN_liberalizm:0 "Republika Węgierska"
+ HUN_liberalizm_DEF:0 "Republika Węgierska"
+ HUN_liberalizm_ADJ:0 "węg."
+
+ HUN_libertarianizm:0 "Republika Węgierska"
+ HUN_libertarianizm_DEF:0 "Republika Węgierska"
+ HUN_libertarianizm_ADJ:0 "węg."
+
+ HUN_socjalizm:0 "Węgierska Republika Ludowa"
+ HUN_socjalizm_DEF:0 "Węgierska Republika Ludowa"
+ HUN_socjalizm_ADJ:0 "węg."
+
+ HUN_komunizm:0 "Węgierska Republika Ludowa"
+ HUN_komunizm_DEF:0 "Węgierska Republika Ludowa"
+ HUN_komunizm_ADJ:0 "węg."
+
+ HUN_nacjonalizm:0 "Węgry"
+ HUN_nacjonalizm_DEF:0 "Węgry"
+ HUN_nacjonalizm_ADJ:0 "węg."
+
+ HUN_faszyzm:0 "Węgry"
+ HUN_faszyzm_DEF:0 "Węgry"
+ HUN_faszyzm_ADJ:0 "węg."
+
+ HUN_monarchizm:0 "Królestwo Węgier"
+ HUN_monarchizm_DEF:0 "Królestwo Węgier"
+ HUN_monarchizm_ADJ:0 "węg."
+
+ HUN_bez_powiazan:0 "Węgry"
+ HUN_bez_powiazan_DEF:0 "Węgry"
+ HUN_bez_powiazan_ADJ:0 "węg."
+
+ HUN:0 "Węgry"
+ HUN_DEF:0 "Węgry"
+ HUN_ADJ:0 "węg."
+
+ ##----##
+
+ ITA_konserwatyzm:0 "Republika Włoska"
+ ITA_konserwatyzm_DEF:0 "Republika Włoska"
+ ITA_konserwatyzm_ADJ:0 "włos."
+
+ ITA_liberalizm:0 "Republika Włoska"
+ ITA_liberalizm_DEF:0 "Republika Włoska"
+ ITA_liberalizm_ADJ:0 "włos."
+
+ ITA_libertarianizm:0 "Republika Włoska"
+ ITA_libertarianizm_DEF:0 "Republika Włoska"
+ ITA_libertarianizm_ADJ:0 "włos."
+
+ ITA_socjalizm:0 "Włoska Republika Ludowa"
+ ITA_socjalizm_DEF:0 "Włoska Republika Ludowa"
+ ITA_socjalizm_ADJ:0 "włos."
+
+ ITA_komunizm:0 "Włoska Republika Ludowa"
+ ITA_komunizm_DEF:0 "Włoska Republika Ludowa"
+ ITA_komunizm_ADJ:0 "włos."
+
+ ITA_nacjonalizm:0 "Włochy"
+ ITA_nacjonalizm_DEF:0 "Włochy"
+ ITA_nacjonalizm_ADJ:0 "włos."
+
+ ITA_faszyzm:0 "Państwo Włoskie"
+ ITA_faszyzm_DEF:0 "Państwo Włoskie"
+ ITA_faszyzm_ADJ:0 "włos."
+
+ ITA_monarchizm:0 "Królestwo Włoch"
+ ITA_monarchizm_DEF:0 "Królestwo Włoch"
+ ITA_monarchizm_ADJ:0 "włos."
+
+ ITA_bez_powiazan:0 "Włochy"
+ ITA_bez_powiazan_DEF:0 "Włochy"
+ ITA_bez_powiazan_ADJ:0 "włos."
+
+ ITA:0 "Włochy"
+ ITA_DEF:0 "Włochy"
+ ITA_ADJ:0 "włos."
+
+ ##----##
+
+ LIE_konserwatyzm:0 "Liechtenstein"
+ LIE_konserwatyzm_DEF:0 "Liechtenstein"
+ LIE_konserwatyzm_ADJ:0 "liech."
+
+ LIE_liberalizm:0 "Liechtenstein"
+ LIE_liberalizm_DEF:0 "Liechtenstein"
+ LIE_liberalizm_ADJ:0 "liech."
+
+ LIE_libertarianizm:0 "Liechtenstein"
+ LIE_libertarianizm_DEF:0 "Liechtenstein"
+ LIE_libertarianizm_ADJ:0 "liech."
+
+ LIE_socjalizm:0 "Socjalistyczny Liechtenstein"
+ LIE_socjalizm_DEF:0 "Socjalistyczny Liechtenstein"
+ LIE_socjalizm_ADJ:0 "liech."
+
+ LIE_komunizm:0 "Komunistyczny Liechtenstein"
+ LIE_komunizm_DEF:0 "Komunistyczny Liechtenstein"
+ LIE_komunizm_ADJ:0 "liech."
+
+ LIE_nacjonalizm:0 "Liechtenstein"
+ LIE_nacjonalizm_DEF:0 "Liechtenstein"
+ LIE_nacjonalizm_ADJ:0 "liech."
+
+ LIE_faszyzm:0 "Liechtenstein"
+ LIE_faszyzm_DEF:0 "Liechtenstein"
+ LIE_faszyzm_ADJ:0 "liech."
+
+ LIE_monarchizm:0 "Księstwo Liechtensteinu"
+ LIE_monarchizm_DEF:0 "Księstwo Liechtensteinu"
+ LIE_monarchizm_ADJ:0 "liech."
+
+ LIE_bez_powiazan:0 "Liechtenstein"
+ LIE_bez_powiazan_DEF:0 "Liechtenstein"
+ LIE_bez_powiazan_ADJ:0 "liech."
+
+ LIE:0 "Liechtenstein"
+ LIE_DEF:0 "Liechtenstein"
+ LIE_ADJ:0 "liech."
+
+ ##----##
+
+ LIT_konserwatyzm:0 "Republika Litewska"
+ LIT_konserwatyzm_DEF:0 "Republika Litewska"
+ LIT_konserwatyzm_ADJ:0 "lit."
+
+ LIT_liberalizm:0 "Republika Litewska"
+ LIT_liberalizm_DEF:0 "Republika Litewska"
+ LIT_liberalizm_ADJ:0 "lit."
+
+ LIT_libertarianizm:0 "Republika Litewska"
+ LIT_libertarianizm_DEF:0 "Republika Litewska"
+ LIT_libertarianizm_ADJ:0 "lit."
+
+ LIT_socjalizm:0 "Litewska Republika Ludowa"
+ LIT_socjalizm_DEF:0 "Litewska Republika Ludowa"
+ LIT_socjalizm_ADJ:0 "lit."
+
+ LIT_komunizm:0 "Litewska Republika Ludowa"
+ LIT_komunizm_DEF:0 "Litewska Republika Ludowa"
+ LIT_komunizm_ADJ:0 "lit."
+
+ LIT_nacjonalizm:0 "Litwa"
+ LIT_nacjonalizm_DEF:0 "Litwa"
+ LIT_nacjonalizm_ADJ:0 "lit."
+
+ LIT_faszyzm:0 "Imperium Litewskie"
+ LIT_faszyzm_DEF:0 "Imperium Litewskie"
+ LIT_faszyzm_ADJ:0 "lit."
+
+ LIT_monarchizm:0 "Królestwo Litwy"
+ LIT_monarchizm_DEF:0 "Królestwo Litwy"
+ LIT_monarchizm_ADJ:0 "lit."
+
+ LIT_bez_powiazan:0 "Litwa"
+ LIT_bez_powiazan_DEF:0 "Litwa"
+ LIT_bez_powiazan_ADJ:0 "lit."
+
+ LIT:0 "Litwa"
+ LIT_DEF:0 "Litwa"
+ LIT_ADJ:0 "lit."
+
+ ##----##
+
+ LUX_konserwatyzm:0 "Luksemburg"
+ LUX_konserwatyzm_DEF:0 "Luksemburg"
+ LUX_konserwatyzm_ADJ:0 "luks."
+
+ LUX_liberalizm:0 "Luksemburg"
+ LUX_liberalizm_DEF:0 "Luksemburg"
+ LUX_liberalizm_ADJ:0 "luks."
+
+ LUX_libertarianizm:0 "Luksemburg"
+ LUX_libertarianizm_DEF:0 "Luksemburg"
+ LUX_libertarianizm_ADJ:0 "luks."
+
+ LUX_socjalizm:0 "Luksemburg"
+ LUX_socjalizm_DEF:0 "Luksemburg"
+ LUX_socjalizm_ADJ:0 "luks."
+
+ LUX_komunizm:0 "Róża Luksemburg"
+ LUX_komunizm_DEF:0 "Róża Luksemburg"
+ LUX_komunizm_ADJ:0 "luks."
+
+ LUX_nacjonalizm:0 "Luksemburg"
+ LUX_nacjonalizm_DEF:0 "Luksemburg"
+ LUX_nacjonalizm_ADJ:0 "luks."
+
+ LUX_faszyzm:0 "Luksemburg"
+ LUX_faszyzm_DEF:0 "Luksemburg"
+ LUX_faszyzm_ADJ:0 "luks."
+
+ LUX_monarchizm:0 "Królestwo Luksemburga"
+ LUX_monarchizm_DEF:0 "Królestwo Luksemburga"
+ LUX_monarchizm_ADJ:0 "luks."
+
+ LUX_bez_powiazan:0 "Luksemburg"
+ LUX_bez_powiazan_DEF:0 "Luksemburg"
+ LUX_bez_powiazan_ADJ:0 "luks."
+
+ LUX:0 "Luksemburg"
+ LUX_DEF:0 "Luksemburg"
+ LUX_ADJ:0 "luks."
+
+ ##----##
+
+ MOL_konserwatyzm:0 "Mołdawia"
+ MOL_konserwatyzm_DEF:0 "Mołdawia"
+ MOL_konserwatyzm_ADJ:0 "mołd."
+
+ MOL_liberalizm:0 "Mołdawia"
+ MOL_liberalizm_DEF:0 "Mołdawia"
+ MOL_liberalizm_ADJ:0 "mołd."
+
+ MOL_libertarianizm:0 "Mołdawia"
+ MOL_libertarianizm_DEF:0 "Mołdawia"
+ MOL_libertarianizm_ADJ:0 "mołd."
+
+ MOL_socjalizm:0 "Mołdawska Republika Socjalistyczna"
+ MOL_socjalizm_DEF:0 "Mołdawska Republika Socjalistyczna"
+ MOL_socjalizm_ADJ:0 "mołd."
+
+ MOL_komunizm:0 "Mołdawska Republika Socjalistyczna"
+ MOL_komunizm_DEF:0 "Mołdawska Republika Socjalistyczna"
+ MOL_komunizm_ADJ:0 "mołd."
+
+ MOL_nacjonalizm:0 "Besarabia"
+ MOL_nacjonalizm_DEF:0 "Besarabia"
+ MOL_nacjonalizm_ADJ:0 "mołd."
+
+ MOL_faszyzm:0 "Besarabia"
+ MOL_faszyzm_DEF:0 "Besarabia"
+ MOL_faszyzm_ADJ:0 "mołd."
+
+ MOL_monarchizm:0 "Hospodarstwo Mołdawii"
+ MOL_monarchizm_DEF:0 "Hospodarstwo Mołdawii"
+ MOL_monarchizm_ADJ:0 "mołd."
+
+ MOL_bez_powiazan:0 "Mołdawia"
+ MOL_bez_powiazan_DEF:0 "Mołdawia"
+ MOL_bez_powiazan_ADJ:0 "mołd."
+
+ MOL:0 "Mołdawia"
+ MOL_DEF:0 "Mołdawia"
+ MOL_ADJ:0 "mołd."
+
+ ##----##
+
+ POL_konserwatyzm:0 "Rzeczpospolita Polska"
+ POL_konserwatyzm_DEF:0 "Rzeczpospolita Polska"
+ POL_konserwatyzm_ADJ:0 "pol."
+
+ POL_liberalizm:0 "Rzeczpospolita Polska"
+ POL_liberalizm_DEF:0 "Rzeczpospolita Polska"
+ POL_liberalizm_ADJ:0 "pol."
+
+ POL_libertarianizm:0 "Rzeczpospolita Polska"
+ POL_libertarianizm_DEF:0 "Rzeczpospolita Polska"
+ POL_libertarianizm_ADJ:0 "pol."
+
+ POL_socjalizm:0 "Polska Rzeczpospolita Ludowa"
+ POL_socjalizm_DEF:0 "Polska Rzeczpospolita Ludowa"
+ POL_socjalizm_ADJ:0 "pol."
+
+ POL_komunizm:0 "Polska Rzeczpospolita Ludowa"
+ POL_komunizm_DEF:0 "Polska Rzeczpospolita Ludowa"
+ POL_komunizm_ADJ:0 "pol."
+
+ POL_nacjonalizm:0 "Rzeczpospolita Polska"
+ POL_nacjonalizm_DEF:0 "Rzeczpospolita Polska"
+ POL_nacjonalizm_ADJ:0 "pol."
+
+ POL_faszyzm:0 "Falangistyczna Polska"
+ POL_faszyzm_DEF:0 "Falangistyczna Polska"
+ POL_faszyzm_ADJ:0 "pol."
+
+ POL_monarchizm:0 "Królestwo Polskie"
+ POL_monarchizm_DEF:0 "Królestwo Polskie"
+ POL_monarchizm_ADJ:0 "pol."
+
+ POL_bez_powiazan:0 "Rzeczpospolita Polska"
+ POL_bez_powiazan_DEF:0 "Rzeczpospolita Polska"
+ POL_bez_powiazan_ADJ:0 "pol."
+
+ POL:0 "Rzeczpospolita Polska"
+ POL_DEF:0 "Rzeczpospolita Polska"
+ POL_ADJ:0 "pol."
+
+ ##----##
+
+ ROM_konserwatyzm:0 "Rumunia"
+ ROM_konserwatyzm_DEF:0 "Rumunia"
+ ROM_konserwatyzm_ADJ:0 "rum."
+
+ ROM_liberalizm:0 "Rumunia"
+ ROM_liberalizm_DEF:0 "Rumunia"
+ ROM_liberalizm_ADJ:0 "rum."
+
+ ROM_libertarianizm:0 "Rumunia"
+ ROM_libertarianizm_DEF:0 "Rumunia"
+ ROM_libertarianizm_ADJ:0 "rum."
+
+ ROM_socjalizm:0 "Rumuńska Republika Ludowa"
+ ROM_socjalizm_DEF:0 "Rumuńska Republika Ludowa"
+ ROM_socjalizm_ADJ:0 "rum."
+
+ ROM_komunizm:0 "Rumuńska Republika Ludowa"
+ ROM_komunizm_DEF:0 "Rumuńska Republika Ludowa"
+ ROM_komunizm_ADJ:0 "rum."
+
+ ROM_nacjonalizm:0 "Rumunia"
+ ROM_nacjonalizm_DEF:0 "Rumunia"
+ ROM_nacjonalizm_ADJ:0 "rum."
+
+ ROM_faszyzm:0 "Gwardyjska Rumunia"
+ ROM_faszyzm_DEF:0 "Gwardyjska Rumunia"
+ ROM_faszyzm_ADJ:0 "rum."
+
+ ROM_monarchizm:0 "Królestwo Rumunii"
+ ROM_monarchizm_DEF:0 "Królestwo Rumunii"
+ ROM_monarchizm_ADJ:0 "rum."
+
+ ROM_bez_powiazan:0 "Rumunia"
+ ROM_bez_powiazan_DEF:0 "Rumunia"
+ ROM_bez_powiazan_ADJ:0 "rum."
+
+ ROM:0 "Rumunia"
+ ROM_DEF:0 "Rumunia"
+ ROM_ADJ:0 "rum."
+
+ ##----##
+
+ SER_konserwatyzm:0 "Republika Serbska"
+ SER_konserwatyzm_DEF:0 "Republika Serbska"
+ SER_konserwatyzm_ADJ:0 "ser."
+
+ SER_liberalizm:0 "Republika Serbska"
+ SER_liberalizm_DEF:0 "Republika Serbska"
+ SER_liberalizm_ADJ:0 "ser."
+
+ SER_libertarianizm:0 "Republika Serbska"
+ SER_libertarianizm_DEF:0 "Republika Serbska"
+ SER_libertarianizm_ADJ:0 "ser."
+
+ SER_socjalizm:0 "Serbska Republika Socjalistyczna"
+ SER_socjalizm_DEF:0 "Serbska Republika Socjalistyczna"
+ SER_socjalizm_ADJ:0 "ser."
+
+ SER_komunizm:0 "Serbska Republika Socjalistyczna"
+ SER_komunizm_DEF:0 "Serbska Republika Socjalistyczna"
+ SER_komunizm_ADJ:0 "ser."
+
+ SER_nacjonalizm:0 "Serbia"
+ SER_nacjonalizm_DEF:0 "Serbia"
+ SER_nacjonalizm_ADJ:0 "ser."
+
+ SER_faszyzm:0 "Imperium Serbskie"
+ SER_faszyzm_DEF:0 "Imperium Serbskie"
+ SER_faszyzm_ADJ:0 "ser."
+
+ SER_monarchizm:0 "Królestwo Serbi"
+ SER_monarchizm_DEF:0 "Królestwo Serbi"
+ SER_monarchizm_ADJ:0 "ser."
+
+ SER_bez_powiazan:0 "Serbia"
+ SER_bez_powiazan_DEF:0 "Serbia"
+ SER_bez_powiazan_ADJ:0 "ser."
+
+ SER:0 "Serbia"
+ SER_DEF:0 "Serbia"
+ SER_ADJ:0 "ser."
+
+ ##----##
+
+ SLO_konserwatyzm:0 "Republika Słowacka"
+ SLO_konserwatyzm_DEF:0 "Republika Słowacka"
+ SLO_konserwatyzm_ADJ:0 "słowac."
+
+ SLO_liberalizm:0 "Republika Słowacka"
+ SLO_liberalizm_DEF:0 "Republika Słowacka"
+ SLO_liberalizm_ADJ:0 "słowac."
+
+ SLO_libertarianizm:0 "Republika Słowacka"
+ SLO_libertarianizm_DEF:0 "Republika Słowacka"
+ SLO_libertarianizm_ADJ:0 "słowac."
+
+ SLO_socjalizm:0 "Słowacka Republika Socjalistyczna"
+ SLO_socjalizm_DEF:0 "Słowacka Republika Socjalistyczna"
+ SLO_socjalizm_ADJ:0 "słowac."
+
+ SLO_komunizm:0 "Słowacka Republika Socjalistyczna"
+ SLO_komunizm_DEF:0 "Słowacka Republika Socjalistyczna"
+ SLO_komunizm_ADJ:0 "słowac."
+
+ SLO_nacjonalizm:0 "Słowacja"
+ SLO_nacjonalizm_DEF:0 "Słowacja"
+ SLO_nacjonalizm_ADJ:0 "słowac."
+
+ SLO_faszyzm:0 "Imperium Serbskie"
+ SLO_faszyzm_DEF:0 "Imperium Serbskie"
+ SLO_faszyzm_ADJ:0 "słowac."
+
+ SLO_monarchizm:0 "Królestwo Słowacji"
+ SLO_monarchizm_DEF:0 "Królestwo Słowacji"
+ SLO_monarchizm_ADJ:0 "słowac."
+
+ SLO_bez_powiazan:0 "Słowacja"
+ SLO_bez_powiazan_DEF:0 "Słowacja"
+ SLO_bez_powiazan_ADJ:0 "słowac."
+
+ SLO:0 "Słowacja"
+ SLO_DEF:0 "Słowacja"
+ SLO_ADJ:0 "słowac."
+
+ ##----##
+
+ SLV_konserwatyzm:0 "Republika Słoweńska"
+ SLV_konserwatyzm_DEF:0 "Republika Słoweńska"
+ SLV_konserwatyzm_ADJ:0 "słoweń."
+
+ SLV_liberalizm:0 "Republika Słoweńska"
+ SLV_liberalizm_DEF:0 "Republika Słoweńska"
+ SLV_liberalizm_ADJ:0 "słoweń."
+
+ SLV_libertarianizm:0 "Republika Słoweńska"
+ SLV_libertarianizm_DEF:0 "Republika Słoweńska"
+ SLV_libertarianizm_ADJ:0 "słoweń."
+
+ SLV_socjalizm:0 "Słoweńska Ludowa Republika Demokratyczna"
+ SLV_socjalizm_DEF:0 "Słoweńska Ludowa Republika Demokratyczna"
+ SLV_socjalizm_ADJ:0 "słoweń."
+
+ SLV_komunizm:0 "Słoweńska Ludowa Republika Demokratyczna"
+ SLV_komunizm_DEF:0 "Słoweńska Ludowa Republika Demokratyczna"
+ SLV_komunizm_ADJ:0 "słoweń."
+
+ SLV_nacjonalizm:0 "Słowenia"
+ SLV_nacjonalizm_DEF:0 "Słowenia"
+ SLV_nacjonalizm_ADJ:0 "słoweń."
+
+ SLV_faszyzm:0 "Falangistyczna Słowenia"
+ SLV_faszyzm_DEF:0 "Falangistyczna Słowenia"
+ SLV_faszyzm_ADJ:0 "słoweń."
+
+ SLV_monarchizm:0 "Królestwo Słowenii"
+ SLV_monarchizm_DEF:0 "Królestwo Słowenii"
+ SLV_monarchizm_ADJ:0 "słoweń."
+
+ SLV_bez_powiazan:0 "Słowenia"
+ SLV_bez_powiazan_DEF:0 "Słowenia"
+ SLV_bez_powiazan_ADJ:0 "słoweń."
+
+ SLV:0 "Słowenia"
+ SLV_DEF:0 "Słowenia"
+ SLV_ADJ:0 "słoweń."
+
+ ##----##
+
+ SOV_konserwatyzm:0 "Federacja Rosyjska"
+ SOV_konserwatyzm_DEF:0 "Federacja Rosyjska"
+ SOV_konserwatyzm_ADJ:0 "ros."
+
+ SOV_liberalizm:0 "Federacja Rosyjska"
+ SOV_liberalizm_DEF:0 "Federacja Rosyjska"
+ SOV_liberalizm_ADJ:0 "ros."
+
+ SOV_libertarianizm:0 "Federacja Rosyjska"
+ SOV_libertarianizm_DEF:0 "Federacja Rosyjska"
+ SOV_libertarianizm_ADJ:0 "ros."
+
+ SOV_socjalizm:0 "Związek Socjalistycznych Republik Radzieckich"
+ SOV_socjalizm_DEF:0 "Związek Socjalistycznych Republik Radzieckich"
+ SOV_socjalizm_ADJ:0 "ros."
+
+ SOV_komunizm:0 "Związek Socjalistycznych Republik Radzieckich"
+ SOV_komunizm_DEF:0 "Związek Socjalistycznych Republik Radzieckich"
+ SOV_komunizm_ADJ:0 "ros."
+
+ SOV_nacjonalizm:0 "Rosja"
+ SOV_nacjonalizm_DEF:0 "Rosja"
+ SOV_nacjonalizm_ADJ:0 "ros."
+
+ SOV_faszyzm:0 "Rosja"
+ SOV_faszyzm_DEF:0 "Rosja"
+ SOV_faszyzm_ADJ:0 "ros."
+
+ SOV_monarchizm:0 "Cesarstwo Rosyjskie"
+ SOV_monarchizm_DEF:0 "Cesarstwo Rosyjskie"
+ SOV_monarchizm_ADJ:0 "ros."
+
+ SOV_bez_powiazan:0 "Federacja Rosyjska"
+ SOV_bez_powiazan_DEF:0 "Federacja Rosyjska"
+ SOV_bez_powiazan_ADJ:0 "ros."
+
+ SOV:0 "Federacja Rosyjska"
+ SOV_DEF:0 "Federacja Rosyjska"
+ SOV_ADJ:0 "ros."
+
+ ##----##
+
+ SWE_konserwatyzm:0 "Szwecja"
+ SWE_konserwatyzm_DEF:0 "Szwecja"
+ SWE_konserwatyzm_ADJ:0 "szwedz."
+
+ SWE_liberalizm:0 "Szwecja"
+ SWE_liberalizm_DEF:0 "Szwecja"
+ SWE_liberalizm_ADJ:0 "szwedz."
+
+ SWE_libertarianizm:0 "Szwecja"
+ SWE_libertarianizm_DEF:0 "Szwecja"
+ SWE_libertarianizm_ADJ:0 "szwedz."
+
+ SWE_socjalizm:0 "Związek Demokratycznej Skandynawi"
+ SWE_socjalizm_DEF:0 "Związek Demokratycznej Skandynawi"
+ SWE_socjalizm_ADJ:0 "szwedz."
+
+ SWE_komunizm:0 "Związek Demokratycznej Skandynawi"
+ SWE_komunizm_DEF:0 "Związek Demokratycznej Skandynawi"
+ SWE_komunizm_ADJ:0 "szwedz."
+
+ SWE_nacjonalizm:0 "Szwecja"
+ SWE_nacjonalizm_DEF:0 "Szwecja"
+ SWE_nacjonalizm_ADJ:0 "szwedz."
+
+ SWE_faszyzm:0 "Svea Rike"
+ SWE_faszyzm_DEF:0 "Svea Rike"
+ SWE_faszyzm_ADJ:0 "szwedz."
+
+ SWE_monarchizm:0 "Królestwo Szwecji"
+ SWE_monarchizm_DEF:0 "Królestwo Szwecji"
+ SWE_monarchizm_ADJ:0 "szwedz."
+
+ SWE_bez_powiazan:0 "Szwecja"
+ SWE_bez_powiazan_DEF:0 "Szwecja"
+ SWE_bez_powiazan_ADJ:0 "szwedz."
+
+ SWE:0 "Szwecja"
+ SWE_DEF:0 "Szwecja"
+ SWE_ADJ:0 "szwedz."
+
+ ##----##
+
+ SWI_konserwatyzm:0 "Szwajcaria"
+ SWI_konserwatyzm_DEF:0 "Szwajcaria"
+ SWI_konserwatyzm_ADJ:0 "szwajc."
+
+ SWI_liberalizm:0 "Szwajcaria"
+ SWI_liberalizm_DEF:0 "Szwajcaria"
+ SWI_liberalizm_ADJ:0 "szwajc."
+
+ SWI_libertarianizm:0 "Szwajcaria"
+ SWI_libertarianizm_DEF:0 "Szwajcaria"
+ SWI_libertarianizm_ADJ:0 "szwajc."
+
+ SWI_socjalizm:0 "Unia Kantonów"
+ SWI_socjalizm_DEF:0 "Unia Kantonów"
+ SWI_socjalizm_ADJ:0 "szwajc."
+
+ SWI_komunizm:0 "Unia Kantonów"
+ SWI_komunizm_DEF:0 "Unia Kantonów"
+ SWI_komunizm_ADJ:0 "szwajc."
+
+ SWI_nacjonalizm:0 "Szwajcaria"
+ SWI_nacjonalizm_DEF:0 "Szwajcaria"
+ SWI_nacjonalizm_ADJ:0 "szwajc."
+
+ SWI_faszyzm:0 "Cesarska Konfederacja Szwajcarska"
+ SWI_faszyzm_DEF:0 "Cesarska Konfederacja Szwajcarska"
+ SWI_faszyzm_ADJ:0 "szwajc."
+
+ SWI_monarchizm:0 "Królestwo Szwajcarii"
+ SWI_monarchizm_DEF:0 "Królestwo Szwajcarii"
+ SWI_monarchizm_ADJ:0 "szwajc."
+
+ SWI_bez_powiazan:0 "Szwajcaria"
+ SWI_bez_powiazan_DEF:0 "Szwajcaria"
+ SWI_bez_powiazan_ADJ:0 "szwajc."
+
+ SWI:0 "Szwajcaria"
+ SWI_DEF:0 "Szwajcaria"
+ SWI_ADJ:0 "szwajc."
+
+ ##----##
+
+ UKR_konserwatyzm:0 "Republika Ukraińska"
+ UKR_konserwatyzm_DEF:0 "Republika Ukraińska"
+ UKR_konserwatyzm_ADJ:0 "ukraiń."
+
+ UKR_liberalizm:0 "Republika Ukraińska"
+ UKR_liberalizm_DEF:0 "Republika Ukraińska"
+ UKR_liberalizm_ADJ:0 "ukraiń."
+
+ UKR_libertarianizm:0 "Republika Ukraińska"
+ UKR_libertarianizm_DEF:0 "Republika Ukraińska"
+ UKR_libertarianizm_ADJ:0 "ukraiń."
+
+ UKR_socjalizm:0 "Ukraińska Republika Socjalistyczna"
+ UKR_socjalizm_DEF:0 "Ukraińska Republika Socjalistyczna"
+ UKR_socjalizm_ADJ:0 "ukraiń."
+
+ UKR_komunizm:0 "Ukraińska Republika Socjalistyczna"
+ UKR_komunizm_DEF:0 "Ukraińska Republika Socjalistyczna"
+ UKR_komunizm_ADJ:0 "ukraiń."
+
+ UKR_nacjonalizm:0 "Ukraina"
+ UKR_nacjonalizm_DEF:0 "Ukraina"
+ UKR_nacjonalizm_ADJ:0 "ukraiń."
+
+ UKR_faszyzm:0 "Ukraina"
+ UKR_faszyzm_DEF:0 "Ukraina"
+ UKR_faszyzm_ADJ:0 "ukraiń."
+
+ UKR_monarchizm:0 "Królestwo Bosporańskie"
+ UKR_monarchizm_DEF:0 "Królestwo Bosporańskie"
+ UKR_monarchizm_ADJ:0 "ukraiń."
+
+ UKR_bez_powiazan:0 "Ukraina"
+ UKR_bez_powiazan_DEF:0 "Ukraina"
+ UKR_bez_powiazan_ADJ:0 "ukraiń."
+
+ UKR:0 "Ukraina"
+ UKR_DEF:0 "Ukraina"
+ UKR_ADJ:0 "ukraiń."

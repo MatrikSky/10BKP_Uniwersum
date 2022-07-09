@@ -1,0 +1,18 @@
+state={
+	id=1956
+	name="STATE_1956"
+	provinces={
+		807 1517 2157 2488 3136 3643 3712 4960 5143 5222 5299 7099 7447 7912 8856 10207 19458 19465 19477 19496 21068 21069 21070 21095 
+	}
+	history={
+		buildings = {
+			infrastructure = 6
+		}
+
+		owner = BOS
+		add_core_of = BOS
+	}
+	manpower=299628
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

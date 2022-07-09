@@ -1,0 +1,18 @@
+state={
+	id=1289
+	name="STATE_1289"
+	provinces={
+		3128 4928 13155 20485 
+	}
+	history={
+		buildings = {
+			infrastructure = 6
+		}
+
+		owner = HOL
+		add_core_of = HOL
+	}
+	manpower=151027
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

@@ -1,0 +1,19 @@
+
+state={
+	id=423
+	name="STATE_423"
+	provinces={
+		2624 3225 3506 3517 4545 4668 6014 7291 8675 8848 9189 11029 12615 12908 16125 16153 16179 16225 16229 16299 16345 16372 16419 
+	}
+	history={
+		buildings = {
+			infrastructure = 5
+		}
+
+		owner = GER
+		add_core_of = GER
+	}
+	manpower=107819
+	buildings_max_level_factor=1.000
+	state_category=town
+}

@@ -1,0 +1,18 @@
+state={
+	id=1698
+	name="STATE_1698"
+	provinces={
+		73 961 1692 5638 6810 9579 9782 10356 11833 14197 20423 20907 
+	}
+	history={
+		buildings = {
+			infrastructure = 5
+		}
+
+		owner = BLR
+		add_core_of = BLR
+	}
+	manpower=107200
+	buildings_max_level_factor=1.000
+	state_category=town
+}

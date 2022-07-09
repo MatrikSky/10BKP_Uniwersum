@@ -1,0 +1,19 @@
+state={
+	id=1848
+	name="STATE_1848"
+	provinces={
+		5121 8533 9933 11511 
+	}
+	history={
+		buildings = {
+			infrastructure = 7
+			industrial_complex = 1
+		}
+
+		owner = BUL
+		add_core_of = BUL
+	}
+	manpower=215361
+	buildings_max_level_factor=1.000
+	state_category=city
+}

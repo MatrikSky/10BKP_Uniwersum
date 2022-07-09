@@ -1,0 +1,18 @@
+state={
+	id=1951
+	name="STATE_1951"
+	provinces={
+		238 805 839 1370 1569 1751 1837 3226 3664 5072 5491 5892 6912 8076 8401 8901 9170 9275 10444 10496 12225 13631 19253 19323 19329 19347 19383 21076 21077 21078 21097 
+	}
+	history={
+		buildings = {
+			infrastructure = 6
+		}
+
+		owner = CRO
+		add_core_of = CRO
+	}
+	manpower=324140
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

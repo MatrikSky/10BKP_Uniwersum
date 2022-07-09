@@ -1,0 +1,18 @@
+state={
+	id=1285
+	name="STATE_1285"
+	provinces={
+		2244 20780 
+	}
+	history={
+		buildings = {
+			infrastructure = 5
+		}
+
+		owner = HOL
+		add_core_of = HOL
+	}
+	manpower=101672
+	buildings_max_level_factor=1.000
+	state_category=town
+}
