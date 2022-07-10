@@ -1,6 +1,0 @@
-spriteTypes = {
-	spriteType = {
-		name = "GFX_2020_bookmark"
-		texturefile = "gfx/interface/select_date_2020.dds"
-	}
-}
